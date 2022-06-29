@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3167":{"pageid":3167,"ns":6,"title":"File:Joodikudigonove.png","revisions":[{"revid":17591,"parentid":0,"user":"Q-2713447885","timestamp":"2022-03-16T10:37:51Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1376":{"pageid":1376,"ns":6,"title":"File:USR.png","revisions":[{"revid":7474,"parentid":0,"user":"Haruka","timestamp":"2021-08-23T11:30:02Z","comment":""}]}}}}

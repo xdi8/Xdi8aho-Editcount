@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2085":{"pageid":2085,"ns":10,"title":"Template:\u5e0c\u9876\u4e16\u754c\u7ebf","revisions":[{"revid":18860,"parentid":18805,"minor":"","user":"Aslan Whiterock","timestamp":"2022-04-03T03:57:47Z","comment":"Saadrius\u5171\u548c\u56fd\u5efa\u8bae\u653e\u5728\u201c\u5e0c\u9876\u5b87\u5b99\u201d\u6a21\u677f"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"970":{"pageid":970,"ns":0,"title":"\u5f17\u6717\u5207\u65af\u79d1\u00b7\u963f\u6208\u65af\u8482\u5c3c","revisions":[{"revid":9900,"parentid":9896,"user":"EnotswolgEnder","timestamp":"2021-09-30T21:32:40Z","comment":""}]}}}}

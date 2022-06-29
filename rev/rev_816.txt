@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"223":{"pageid":223,"ns":6,"title":"File:Ditu7.png","revisions":[{"revid":816,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-05-11T07:49:03Z","comment":""}]}}}}

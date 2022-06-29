@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"272":{"pageid":272,"ns":6,"title":"File:Ber.jpg","revisions":[{"revid":5027,"parentid":1307,"user":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07","timestamp":"2021-07-16T08:14:43Z","comment":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07\u4e0a\u4f20[[File:\u767d\u4ee4\u5171\u548c\u570b\u570b\u65d7.jpg]]\u7684\u65b0\u7248\u672c"}]}}}}

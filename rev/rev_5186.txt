@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"588":{"pageid":588,"ns":6,"title":"File:FRA.png","revisions":[{"revid":5186,"parentid":2994,"user":"Re-pasako","timestamp":"2021-07-23T03:23:33Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u4e0a\u4f20[[File:FRA.png]]\u7684\u65b0\u7248\u672c"}]}}}}

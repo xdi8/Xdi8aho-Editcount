@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2569":{"pageid":2569,"ns":6,"title":"File:Flag-NGLet.png","revisions":[{"revid":14418,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-01T05:03:48Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:Flag-NGLet.png]]\u81f3[[File:LET-InternalTroops.png]]"}]}}}}

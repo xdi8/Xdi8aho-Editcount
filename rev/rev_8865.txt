@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1584":{"pageid":1584,"ns":6,"title":"File:LET-InternalTroops.png","revisions":[{"revid":8865,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:47Z","comment":""}]}}}}

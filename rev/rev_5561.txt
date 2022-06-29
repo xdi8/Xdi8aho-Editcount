@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1039":{"pageid":1039,"ns":6,"title":"File:\u4e8c\u5854\u6c14\u5019.jpg","revisions":[{"revid":5561,"parentid":5436,"user":"DDFXRD","timestamp":"2021-07-28T14:04:01Z","comment":"DDFXRD\u4e0a\u4f20[[File:\u4e8c\u5854\u6c14\u5019.jpg]]\u7684\u65b0\u7248\u672c"}]}}}}

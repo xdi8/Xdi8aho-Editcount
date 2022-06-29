@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2441":{"pageid":2441,"ns":6,"title":"File:60e2f604bd7ea878.jpg","revisions":[{"revid":13589,"parentid":13585,"user":"Re-pasako","timestamp":"2021-12-04T03:34:04Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f \u4e0a\u50b3\u4e86\u65b0\u7248\u672c\u7684 [[File:60e2f604bd7ea878.jpg]]"}]}}}}

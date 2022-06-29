@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"276":{"pageid":276,"ns":10,"title":"Template:Infobox country","revisions":[{"revid":10308,"parentid":1101,"minor":"","user":"Aslan Whiterock","timestamp":"2021-10-06T08:27:23Z","comment":"\u53bb\u9664\u5197\u4f59"}]}}}}

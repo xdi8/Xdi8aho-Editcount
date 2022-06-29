@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2579":{"pageid":2579,"ns":6,"title":"File:KSRRouteMap.png","revisions":[{"revid":14484,"parentid":0,"user":"Haruka","timestamp":"2022-01-02T07:29:44Z","comment":""}]}}}}

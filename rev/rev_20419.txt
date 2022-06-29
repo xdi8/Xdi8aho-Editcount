@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3574":{"pageid":3574,"ns":6,"title":"File:3rdLieutenant-LetN.png","revisions":[{"revid":20419,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:52:50Z","comment":""}]}}}}

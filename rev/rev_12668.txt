@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2270":{"pageid":2270,"ns":0,"title":"\u795e\u79d8\u5b66","revisions":[{"revid":12668,"parentid":12667,"minor":"","user":"Haruka","timestamp":"2021-11-16T12:57:37Z","comment":"/* \u4e1c\u65b9\u795e\u79d8\u5b66 */"}]}}}}

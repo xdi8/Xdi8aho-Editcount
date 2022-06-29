@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2254":{"pageid":2254,"ns":6,"title":"File:Chn.jpg","revisions":[{"revid":12588,"parentid":0,"user":"Haruka","timestamp":"2021-11-16T01:52:24Z","comment":""}]}}}}

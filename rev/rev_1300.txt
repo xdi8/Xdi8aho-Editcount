@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"271":{"pageid":271,"ns":6,"title":"File:Rhu.png","revisions":[{"revid":1300,"parentid":1299,"user":"Re-pasako","timestamp":"2021-05-18T13:17:42Z","comment":""}]}}}}

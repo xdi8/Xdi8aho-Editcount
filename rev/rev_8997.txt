@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1638":{"pageid":1638,"ns":6,"title":"File:Kogot.png","revisions":[{"revid":8997,"parentid":0,"user":"Sakura.RK","timestamp":"2021-09-13T14:38:33Z","comment":"\u79d1\u845b\u661f\u57df\u68cb\u5716\uff0c\u7248\u6b0a\u8ddf\u96a8\u5e0c\u9802\u7dad\u57fa"}]}}}}

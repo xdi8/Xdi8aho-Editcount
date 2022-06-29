@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1590":{"pageid":1590,"ns":6,"title":"File:Generalissimo-Lettistan.png","revisions":[{"revid":8893,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:30:11Z","comment":""}]}}}}

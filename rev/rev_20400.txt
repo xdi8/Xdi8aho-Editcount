@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3555":{"pageid":3555,"ns":6,"title":"File:Brigadier-LetAF.png","revisions":[{"revid":20400,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:50:55Z","comment":""}]}}}}

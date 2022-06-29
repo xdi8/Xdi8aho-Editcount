@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3603":{"pageid":3603,"ns":6,"title":"File:SergeantMajor-LetAF.png","revisions":[{"revid":20449,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:04:46Z","comment":""}]}}}}

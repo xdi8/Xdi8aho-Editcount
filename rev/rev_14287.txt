@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2538":{"pageid":2538,"ns":6,"title":"File:SPB\u8def\u7ebf\u56fe.png","revisions":[{"revid":14287,"parentid":0,"user":"Haruka","timestamp":"2021-12-27T12:59:41Z","comment":""}]}}}}

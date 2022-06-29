@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1576":{"pageid":1576,"ns":6,"title":"File:LET-President.png","revisions":[{"revid":19963,"parentid":17173,"user":"Aslan Whiterock","timestamp":"2022-04-24T12:01:15Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:LET-President.png]]\u7684\u65b0\u7248\u672c"}]}}}}

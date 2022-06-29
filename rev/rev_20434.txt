@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3588":{"pageid":3588,"ns":6,"title":"File:Sergeant-LetN.png","revisions":[{"revid":20434,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:00:50Z","comment":""}]}}}}

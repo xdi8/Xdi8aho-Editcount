@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2970":{"pageid":2970,"ns":6,"title":"File:License-plate-militsiya.png","revisions":[{"revid":16398,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:16:58Z","comment":""}]}}}}

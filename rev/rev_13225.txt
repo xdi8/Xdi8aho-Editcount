@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2394":{"pageid":2394,"ns":6,"title":"File:\u5730\u5821\u5947\u4ebalogo.jpg","revisions":[{"revid":13225,"parentid":0,"user":"Haruka","timestamp":"2021-11-26T01:21:04Z","comment":""}]}}}}

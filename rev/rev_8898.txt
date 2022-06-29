@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1595":{"pageid":1595,"ns":6,"title":"File:2StarGen-Lettistan.png","revisions":[{"revid":8898,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:30:30Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"294":{"pageid":294,"ns":6,"title":"File:USSRl.png","revisions":[{"revid":2182,"parentid":1217,"user":"Haruka","timestamp":"2021-05-29T12:57:09Z","comment":"Haruka\u4e0a\u4f20[[File:USSRl.png]]\u7684\u65b0\u7248\u672c"}]}}}}

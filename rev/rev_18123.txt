@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1302":{"pageid":1302,"ns":0,"title":"\u8521\u5f90\u5764","revisions":[{"revid":18123,"parentid":17943,"user":"\u7269\u7075","timestamp":"2022-03-25T15:09:56Z","comment":"[[XW:STYLE]]\uff1a\u672c\u7ad9\u7981\u6b62\u4e0a\u4f20\u771f\u4eba\u7167\u7247"}]}}}}

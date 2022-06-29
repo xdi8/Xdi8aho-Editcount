@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"339":{"pageid":339,"ns":8,"title":"MediaWiki:Conversiontable/zh-hk","revisions":[{"revid":1762,"parentid":1584,"user":"\u7269\u7075","timestamp":"2021-05-22T00:46:54Z","comment":""}]}}}}

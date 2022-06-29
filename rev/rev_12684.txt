@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2274":{"pageid":2274,"ns":10,"title":"Template:\u57ce\u5e02","revisions":[{"revid":12684,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-11-17T05:12:44Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c{{\u57ce\u5e02}}\u201d\u7684\u65b0\u9875\u9762"}]}}}}

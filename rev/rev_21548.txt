@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3759":{"pageid":3759,"ns":6,"title":"File:Emblem-Lettistan-Wartime.png","revisions":[{"revid":21548,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-06-26T14:15:01Z","comment":""}]}}}}

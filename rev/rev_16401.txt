@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2972":{"pageid":2972,"ns":6,"title":"File:License-plate-army.png","revisions":[{"revid":16401,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:19:47Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"376":{"pageid":376,"ns":10,"title":"Template:SRZ","revisions":[{"revid":1805,"parentid":1802,"user":"Re-pasako","timestamp":"2021-05-22T04:34:51Z","comment":""}]}}}}

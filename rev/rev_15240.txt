@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2700":{"pageid":2700,"ns":6,"title":"File:ASY.jpg","revisions":[{"revid":15240,"parentid":0,"user":"Haruka","timestamp":"2022-01-18T10:41:58Z","comment":""}]}}}}

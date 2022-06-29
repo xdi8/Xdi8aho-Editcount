@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2575":{"pageid":2575,"ns":6,"title":"File:XTTT.png","revisions":[{"revid":14440,"parentid":0,"user":"Haruka","timestamp":"2022-01-01T07:22:40Z","comment":""}]}}}}

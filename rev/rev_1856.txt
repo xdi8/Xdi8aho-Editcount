@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"271":{"pageid":271,"ns":6,"title":"File:Rhu.png","revisions":[{"revid":1856,"parentid":1300,"user":"Re-pasako","timestamp":"2021-05-22T23:13:05Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f \u4e0a\u50b3\u4e86\u65b0\u7248\u672c\u7684 [[File:\u65e5\u51fa\u5171\u548c\u570b\u570b\u65d7.png]]"}]}}}}

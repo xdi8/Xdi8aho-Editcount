@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"454":{"pageid":454,"ns":6,"title":"File:Jry.png","revisions":[{"revid":2428,"parentid":2171,"user":"Re-pasako","timestamp":"2021-06-05T14:13:39Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2452":{"pageid":2452,"ns":6,"title":"File:S-rhu.png","revisions":[{"revid":13626,"parentid":13625,"minor":"","user":"Re-pasako","timestamp":"2021-12-04T07:53:06Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u79fb\u52d5\u9801\u9762[[File:S-rih.png]]\u81f3[[File:S-rhu.png]]"}]}}}}

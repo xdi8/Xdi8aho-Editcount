@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2224":{"pageid":2224,"ns":0,"title":"Democratic People's Republic of Lettistan","revisions":[{"revid":14763,"parentid":14689,"minor":"","user":"Aslan Whiterock","timestamp":"2022-01-08T05:06:20Z","comment":"/* Military */"}]}}}}

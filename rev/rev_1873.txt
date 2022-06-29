@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"390":{"pageid":390,"ns":6,"title":"File:FIAV 011000.png","revisions":[{"revid":1873,"parentid":0,"user":"Re-pasako","timestamp":"2021-05-22T23:53:35Z","comment":""}]}}}}

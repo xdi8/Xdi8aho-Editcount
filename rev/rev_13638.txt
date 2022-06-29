@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2458":{"pageid":2458,"ns":6,"title":"File:S-pcs.png","revisions":[{"revid":13638,"parentid":0,"user":"Re-pasako","timestamp":"2021-12-04T08:07:17Z","comment":""}]}}}}

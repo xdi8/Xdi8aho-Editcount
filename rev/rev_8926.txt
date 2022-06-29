@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1623":{"pageid":1623,"ns":6,"title":"File:FirstSergeant-Lettistan.png","revisions":[{"revid":8926,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:37:53Z","comment":""}]}}}}

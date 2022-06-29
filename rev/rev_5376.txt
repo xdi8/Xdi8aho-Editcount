@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"997":{"pageid":997,"ns":10,"title":"Template:Mbox","revisions":[{"revid":5376,"parentid":5369,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:49:46Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1597":{"pageid":1597,"ns":6,"title":"File:Brigadier-Lettistan.png","revisions":[{"revid":13084,"parentid":8900,"user":"Aslan Whiterock","timestamp":"2021-11-23T08:52:34Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Brigadier-Lettistan.png]]\u7684\u65b0\u7248\u672c"}]}}}}

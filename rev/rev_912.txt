@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"32":{"pageid":32,"ns":8,"title":"MediaWiki:Tagline","revisions":[{"revid":912,"parentid":911,"user":"\u7269\u7075","timestamp":"2021-05-12T12:17:47Z","comment":""}]}}}}

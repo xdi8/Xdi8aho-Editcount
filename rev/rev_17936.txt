@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2015":{"pageid":2015,"ns":14,"title":"Category:Ja-0","revisions":[{"revid":17936,"parentid":10935,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:31:05Z","comment":"// Edit via Wikiplus"}]}}}}

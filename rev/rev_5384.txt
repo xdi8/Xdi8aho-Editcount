@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1004":{"pageid":1004,"ns":10,"title":"Template:Warning","revisions":[{"revid":5384,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:55:17Z","comment":"// Edit via Wikiplus"}]}}}}

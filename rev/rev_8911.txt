@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1608":{"pageid":1608,"ns":6,"title":"File:Starshina-Lettistan.png","revisions":[{"revid":8911,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:32:41Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2502":{"pageid":2502,"ns":6,"title":"File:GEF.jpg","revisions":[{"revid":14033,"parentid":0,"user":"Haruka","timestamp":"2021-12-15T12:14:21Z","comment":""}]}}}}

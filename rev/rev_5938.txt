@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1052":{"pageid":1052,"ns":10,"title":"Template:Msgbox","revisions":[{"revid":5938,"parentid":5525,"minor":"","user":"\u9057\u8ff9iseki","timestamp":"2021-08-03T07:23:13Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Template:Info]]\u66f4\u6539\u4e3a[[Template:Mbox]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"996":{"pageid":996,"ns":6,"title":"File:Template-info.png","revisions":[{"revid":5367,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:45:44Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1293":{"pageid":1293,"ns":6,"title":"File:EKSV2.png","revisions":[{"revid":6914,"parentid":0,"user":"Q-2713447885","timestamp":"2021-08-18T08:09:26Z","comment":""}]}}}}

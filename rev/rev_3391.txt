@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"661":{"pageid":661,"ns":6,"title":"File:USSRlN.png","revisions":[{"revid":3391,"parentid":0,"user":"Haruka","timestamp":"2021-06-21T12:15:54Z","comment":""}]}}}}

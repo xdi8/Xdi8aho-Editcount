@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"696":{"pageid":696,"ns":6,"title":"File:Olympic.png","revisions":[{"revid":3569,"parentid":0,"user":"Haruka","timestamp":"2021-06-22T15:08:45Z","comment":""}]}}}}

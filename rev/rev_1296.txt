@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"293":{"pageid":293,"ns":6,"title":"File:USSR.png","revisions":[{"revid":1296,"parentid":1293,"user":"Re-pasako","timestamp":"2021-05-18T13:15:51Z","comment":""}]}}}}

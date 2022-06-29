@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2581":{"pageid":2581,"ns":6,"title":"File:KSRCIN.jpg","revisions":[{"revid":14489,"parentid":0,"user":"Haruka","timestamp":"2022-01-02T07:44:06Z","comment":""}]}}}}

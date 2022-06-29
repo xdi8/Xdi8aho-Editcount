@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"30":{"pageid":30,"ns":10,"title":"Template:Lang","revisions":[{"revid":3845,"parentid":703,"user":"\u7269\u7075","timestamp":"2021-06-26T02:14:25Z","comment":"\u683c\u5f0f\u9519\u8bef\u4fee\u6b63"}]}}}}

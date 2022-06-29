@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1927":{"pageid":1927,"ns":6,"title":"File:\u8428\u4e01.jpg","revisions":[{"revid":11823,"parentid":10535,"minor":"","user":"Aslan Whiterock","timestamp":"2021-11-01T05:20:20Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[File:\u6492\u4e01.jpg]]\u66f4\u6539\u4e3a[[File:\u53cc\u5b50\u5c9b.jpg]]"}]}}}}

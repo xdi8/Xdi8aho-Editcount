@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"502":{"pageid":502,"ns":0,"title":"\u65e5\u672c\u56fd (2022)","revisions":[{"revid":21161,"parentid":21153,"minor":"","user":"Aslan Whiterock","timestamp":"2022-06-05T14:38:15Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[\u65e5\u672c\u56fd]]\u81f3[[\u65e5\u672c\u56fd (2022)]]"}]}}}}

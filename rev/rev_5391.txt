@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1005":{"pageid":1005,"ns":6,"title":"File:\u754c\u9762.png","revisions":[{"revid":5391,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-07-27T16:07:51Z","comment":"\u7269\u7075\u79fb\u52a8\u9875\u9762[[File:\u754c\u9762.png]]\u81f3[[File:\u91d1\u72ee\u5e0c\u5317\u8bed\u7ffb\u8bd1\u5668\u754c\u9762.png]]"}]}}}}

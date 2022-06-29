@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"575":{"pageid":575,"ns":6,"title":"File:ARA.png","revisions":[{"revid":2891,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-14T13:18:09Z","comment":""}]}}}}

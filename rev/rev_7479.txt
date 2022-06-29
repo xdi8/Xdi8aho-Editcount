@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1377":{"pageid":1377,"ns":6,"title":"File:TTE1900.png","revisions":[{"revid":7479,"parentid":0,"user":"Haruka","timestamp":"2021-08-23T12:19:42Z","comment":""}]}}}}

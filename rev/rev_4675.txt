@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"904":{"pageid":904,"ns":6,"title":"File:USC2.png","revisions":[{"revid":4675,"parentid":0,"user":"Haruka","timestamp":"2021-07-05T12:44:06Z","comment":""}]}}}}

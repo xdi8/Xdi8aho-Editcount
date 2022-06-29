@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"77":{"pageid":77,"ns":2,"title":"User:Wizard","revisions":[{"revid":243,"parentid":242,"user":"Wizard","timestamp":"2021-02-02T18:09:37Z","comment":""}]}}}}

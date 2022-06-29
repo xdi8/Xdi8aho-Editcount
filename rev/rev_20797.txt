@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3428":{"pageid":3428,"ns":14,"title":"Category:Ja-2","revisions":[{"revid":20797,"parentid":19354,"minor":"","user":"\u7269\u7075","timestamp":"2022-05-20T03:02:25Z","comment":""}]}}}}

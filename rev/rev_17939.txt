@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1984":{"pageid":1984,"ns":14,"title":"Category:Ja \u7528\u6237","revisions":[{"revid":17939,"parentid":10900,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:31:43Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"272":{"pageid":272,"ns":6,"title":"File:Ber.jpg","revisions":[{"revid":13610,"parentid":5027,"minor":"","user":"Re-pasako","timestamp":"2021-12-04T07:45:28Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u79fb\u52d5\u9801\u9762[[File:\u767d\u4ee4\u5171\u548c\u570b\u570b\u65d7.jpg]]\u81f3[[File:Ber.jpg]]"}]}}}}

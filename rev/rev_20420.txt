@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3575":{"pageid":3575,"ns":6,"title":"File:SeniorPraporshchik-LetAF.png","revisions":[{"revid":20420,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:57:38Z","comment":""}]}}}}

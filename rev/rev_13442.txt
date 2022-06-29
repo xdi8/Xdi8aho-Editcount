@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2413":{"pageid":2413,"ns":6,"title":"File:XErdi8ahogo.png","revisions":[{"revid":13442,"parentid":0,"user":"Haruka","timestamp":"2021-11-30T13:09:53Z","comment":""}]}}}}

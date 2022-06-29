@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2659":{"pageid":2659,"ns":6,"title":"File:XEU.png","revisions":[{"revid":14996,"parentid":0,"user":"Haruka","timestamp":"2022-01-15T11:53:04Z","comment":""}]}}}}

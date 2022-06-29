@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3566":{"pageid":3566,"ns":6,"title":"File:1StarGen-LetN.png","revisions":[{"revid":20411,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:51:57Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2469":{"pageid":2469,"ns":0,"title":"Union of Shiden Socialism Republics","revisions":[{"revid":13744,"parentid":13743,"minor":"","user":"Haruka","timestamp":"2021-12-05T09:02:40Z","comment":""}]}}}}

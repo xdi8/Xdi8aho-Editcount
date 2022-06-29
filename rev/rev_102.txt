@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"40":{"pageid":40,"ns":2,"title":"User:Honoka55/Sign","revisions":[{"revid":102,"parentid":0,"user":"Honoka55","timestamp":"2021-01-19T12:46:08Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1601":{"pageid":1601,"ns":6,"title":"File:Captain-Lettistan.png","revisions":[{"revid":8904,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:30:58Z","comment":""}]}}}}

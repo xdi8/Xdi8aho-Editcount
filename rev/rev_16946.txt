@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3050":{"pageid":3050,"ns":6,"title":"File:Kurdistan.png","revisions":[{"revid":16946,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2022-02-11T11:09:00Z","comment":""}]}}}}

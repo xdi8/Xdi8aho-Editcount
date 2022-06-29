@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1352":{"pageid":1352,"ns":6,"title":"File:LET.png","revisions":[{"revid":7238,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-08-21T11:31:51Z","comment":""}]}}}}

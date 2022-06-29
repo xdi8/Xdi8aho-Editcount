@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3058":{"pageid":3058,"ns":10,"title":"Template:User kof-0","revisions":[{"revid":16965,"parentid":16964,"user":"Sakura.RK","timestamp":"2022-02-12T16:55:50Z","comment":""}]}}}}

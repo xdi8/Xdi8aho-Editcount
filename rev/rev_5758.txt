@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"30":{"pageid":30,"ns":10,"title":"Template:Lang","revisions":[{"revid":5758,"parentid":3845,"minor":"","user":"Honoka55","timestamp":"2021-07-30T17:34:18Z","comment":"\u7981\u6b62\u7b80\u7e41\u8f6c\u6362\uff0c\u907f\u514d\u65e5\u6587\u4e2d\u6c49\u5b57\u8bef\u8f6c// Edit via Wikiplus"}]}}}}

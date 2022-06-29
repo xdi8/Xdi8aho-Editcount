@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2785":{"pageid":2785,"ns":10,"title":"Template:SCP\u58f0\u660e","revisions":[{"revid":15732,"parentid":15727,"minor":"","user":"Haruka","timestamp":"2022-01-22T15:44:24Z","comment":""}]}}}}

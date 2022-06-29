@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1365":{"pageid":1365,"ns":0,"title":"\u6c99\u7687\u6e05\u56fd","revisions":[{"revid":7313,"parentid":7312,"user":"Nu3khoci3","timestamp":"2021-08-22T06:33:52Z","comment":"/* \u6ee1\u65cf\u8d77\u4e49 */"}]}}}}

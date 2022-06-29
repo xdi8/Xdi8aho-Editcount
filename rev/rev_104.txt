@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"41":{"pageid":41,"ns":828,"title":"\u6a21\u5757:String","revisions":[{"revid":104,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-01-19T13:20:40Z","comment":"\u7531 MediaWiki \u521b\u5efa"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1007":{"pageid":1007,"ns":6,"title":"File:Icon-info.png","revisions":[{"revid":5402,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-28T02:50:47Z","comment":""}]}}}}

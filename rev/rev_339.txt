@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"63":{"pageid":63,"ns":2,"title":"User:Haruka","revisions":[{"revid":339,"parentid":196,"minor":"","user":"Haruka","timestamp":"2021-02-04T14:24:42Z","comment":""}]}}}}

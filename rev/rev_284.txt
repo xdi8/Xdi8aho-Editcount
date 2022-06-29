@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"96":{"pageid":96,"ns":10,"title":"Template:Compromise","revisions":[{"revid":284,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-02-04T11:50:41Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:\u59a5\u534f]]"}]}}}}

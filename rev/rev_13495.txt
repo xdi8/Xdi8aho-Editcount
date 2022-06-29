@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2132":{"pageid":2132,"ns":0,"title":"\u857e\u8482\u65af\u5766\u6700\u9ad8\u8d24\u8005\u4f1a\u8bae","revisions":[{"revid":13495,"parentid":12074,"minor":"","user":"Aslan Whiterock","timestamp":"2021-12-02T14:33:56Z","comment":"\u201c\u53cd\u6cd5\u897f\u65af\u201d\u4e0e\u201c\u53cd\u5361\u52d2\u5b81\u201d\u91cd\u590d"}]}}}}

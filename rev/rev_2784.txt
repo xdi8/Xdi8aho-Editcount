@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"538":{"pageid":538,"ns":6,"title":"File:Am.png","revisions":[{"revid":2784,"parentid":0,"user":"Haruka","timestamp":"2021-06-10T15:30:40Z","comment":""}]}}}}

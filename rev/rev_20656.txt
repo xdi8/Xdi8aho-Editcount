@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3463":{"pageid":3463,"ns":6,"title":"File:AUR.png","revisions":[{"revid":20656,"parentid":19699,"minor":"","user":"Aslan Whiterock","timestamp":"2022-05-17T08:31:12Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:-71f026c783908a9f.png]]\u81f3[[File:AUR.png]]"}]}}}}

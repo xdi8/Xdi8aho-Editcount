@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3608":{"pageid":3608,"ns":6,"title":"File:RGCSergeant-LetAF.png","revisions":[{"revid":20454,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:05:13Z","comment":""}]}}}}

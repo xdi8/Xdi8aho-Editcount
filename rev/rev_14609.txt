@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2172":{"pageid":2172,"ns":6,"title":"File:RUS-ICH.png","revisions":[{"revid":14609,"parentid":14394,"minor":"","user":"Aslan Whiterock","timestamp":"2022-01-03T05:04:59Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:ICH-Flag.png]]\u81f3[[File:RUS-ICH.png]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1015":{"pageid":1015,"ns":9,"title":"MediaWiki talk:Common.css","revisions":[{"revid":5515,"parentid":5410,"user":"\u7269\u7075","timestamp":"2021-07-28T12:07:43Z","comment":"/* \u8bf7\u52a0\u5165\u4ee5\u4e0b\u4ee3\u7801 */"}]}}}}

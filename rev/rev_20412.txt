@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3567":{"pageid":3567,"ns":6,"title":"File:Brigadier-LetN.png","revisions":[{"revid":20412,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:52:17Z","comment":""}]}}}}

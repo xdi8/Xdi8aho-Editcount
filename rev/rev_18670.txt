@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1740":{"pageid":1740,"ns":14,"title":"Category:\u5e0c\u9876\u4e16\u754c\u7ebf\u661f\u7403","revisions":[{"revid":18670,"parentid":10579,"user":"Nu3khoci3","timestamp":"2022-03-30T13:33:09Z","comment":""}]}}}}

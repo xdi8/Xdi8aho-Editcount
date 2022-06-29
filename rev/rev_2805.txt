@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"556":{"pageid":556,"ns":6,"title":"File:Ng.png","revisions":[{"revid":2805,"parentid":0,"user":"Haruka","timestamp":"2021-06-10T16:17:03Z","comment":""}]}}}}

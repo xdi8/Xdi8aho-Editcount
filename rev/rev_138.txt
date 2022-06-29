@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"43":{"pageid":43,"ns":10,"title":"Template:Reply to","revisions":[{"revid":138,"parentid":137,"minor":"","user":"Honoka55","timestamp":"2021-01-20T06:36:58Z","comment":"Honoka55\u79fb\u52a8\u9875\u9762[[\u6a21\u677f:Ping]]\u81f3[[\u6a21\u677f:Reply to]]"}]}}}}

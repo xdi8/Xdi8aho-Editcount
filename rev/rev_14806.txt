@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2631":{"pageid":2631,"ns":6,"title":"File:RCI.jpg","revisions":[{"revid":14806,"parentid":0,"user":"Haruka","timestamp":"2022-01-09T13:38:32Z","comment":""}]}}}}

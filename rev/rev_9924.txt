@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1359":{"pageid":1359,"ns":0,"title":"\u5e0c\u4e71","revisions":[{"revid":9924,"parentid":7289,"minor":"","user":"\u9057\u8ff9iseki","timestamp":"2021-10-01T01:22:53Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5e0c\u4e71\u8bed]]\u66f4\u6539\u4e3a[[\u751f\u8349:\u5e0c\u4e71\u8bed]]"}]}}}}

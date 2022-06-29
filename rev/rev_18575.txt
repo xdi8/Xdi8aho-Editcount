@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"986":{"pageid":986,"ns":2,"title":"User:QWERTY 52 38/common.css","revisions":[{"revid":18575,"parentid":5348,"user":"QWERTY 52 38","timestamp":"2022-03-28T08:30:13Z","comment":"// Edit via Wikiplus"}]}}}}

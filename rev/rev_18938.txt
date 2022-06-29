@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1579":{"pageid":1579,"ns":6,"title":"File:LET-Armed-Forces.png","revisions":[{"revid":18938,"parentid":17467,"user":"Aslan Whiterock","timestamp":"2022-04-04T13:01:48Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:LET-Armed-Forces.png]]\u7684\u65b0\u7248\u672c"}]}}}}

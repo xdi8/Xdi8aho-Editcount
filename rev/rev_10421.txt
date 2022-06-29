@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1909":{"pageid":1909,"ns":6,"title":"File:MOMO.jpg","revisions":[{"revid":10421,"parentid":0,"user":"Haruka","timestamp":"2021-10-07T17:14:11Z","comment":""}]}}}}

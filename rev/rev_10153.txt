@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1794":{"pageid":1794,"ns":6,"title":"File:Lettistani language alphabet chart.png","revisions":[{"revid":10153,"parentid":10021,"user":"Aslan Whiterock","timestamp":"2021-10-05T04:11:07Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Lettistani language alphabet chart.png]]\u7684\u65b0\u7248\u672c"}]}}}}

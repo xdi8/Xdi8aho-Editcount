@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3601":{"pageid":3601,"ns":6,"title":"File:RGCPrivate-LetN.png","revisions":[{"revid":20447,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:04:29Z","comment":""}]}}}}

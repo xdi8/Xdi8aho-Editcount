@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1383":{"pageid":1383,"ns":6,"title":"File:LET-WPL.png","revisions":[{"revid":7530,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-08-24T08:48:14Z","comment":""}]}}}}

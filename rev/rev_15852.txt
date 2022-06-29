@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2869":{"pageid":2869,"ns":6,"title":"File:SCP.png","revisions":[{"revid":15852,"parentid":0,"user":"Haruka","timestamp":"2022-01-23T01:29:16Z","comment":""}]}}}}

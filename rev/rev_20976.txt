@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3411":{"pageid":3411,"ns":2,"title":"User:Itinatsunoyaku","revisions":[{"revid":20976,"parentid":19365,"user":"Itinatsunoyaku","timestamp":"2022-05-27T13:52:22Z","comment":""}]}}}}

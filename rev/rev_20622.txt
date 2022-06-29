@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3354":{"pageid":3354,"ns":0,"title":"\u65e5\u672c","revisions":[{"revid":20622,"parentid":18974,"minor":"","user":"Aslan Whiterock","timestamp":"2022-05-16T05:02:30Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u65e5\u672c\u56fd]]\u66f4\u6539\u4e3a[[\u65e5\u672c (\u6d88\u6b67\u4e49)]]"}]}}}}

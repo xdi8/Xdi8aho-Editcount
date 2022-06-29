@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2740":{"pageid":2740,"ns":6,"title":"File:KG.png","revisions":[{"revid":15543,"parentid":0,"user":"Haruka","timestamp":"2022-01-21T03:14:19Z","comment":""}]}}}}

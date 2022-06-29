@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1612":{"pageid":1612,"ns":6,"title":"File:Gefreiter-Lettistan.png","revisions":[{"revid":13098,"parentid":8915,"user":"Aslan Whiterock","timestamp":"2021-11-23T08:55:36Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Gefreiter-Lettistan.png]]\u7684\u65b0\u7248\u672c"}]}}}}

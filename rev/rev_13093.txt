@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1607":{"pageid":1607,"ns":6,"title":"File:Praporshchik-Lettistan.png","revisions":[{"revid":13093,"parentid":8910,"user":"Aslan Whiterock","timestamp":"2021-11-23T08:55:11Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Praporshchik-Lettistan.png]]\u7684\u65b0\u7248\u672c"}]}}}}

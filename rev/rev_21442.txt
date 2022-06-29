@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3493":{"pageid":3493,"ns":2,"title":"User:Aslan Whiterock/\u6c99\u76d2/\u857e\u8482\u65af\u5766\u6559\u80b2","revisions":[{"revid":21442,"parentid":20241,"user":"KLEk2005","timestamp":"2022-06-19T16:24:11Z","comment":"/* \u6982\u8981 */ \u6211\u5e0c\u671b\u4ed6\u53ea\u4e0d\u8fc7\u662f\u9519\u5b57\u800c\u5df2"}]}}}}

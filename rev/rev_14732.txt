@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1576":{"pageid":1576,"ns":6,"title":"File:LET-President.png","revisions":[{"revid":14732,"parentid":8857,"minor":"","user":"Aslan Whiterock","timestamp":"2022-01-07T07:42:29Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:Flag-President-Lettistan.png]]\u81f3[[File:LET-President.png]]"}]}}}}

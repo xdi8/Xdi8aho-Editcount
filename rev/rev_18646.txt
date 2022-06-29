@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3307":{"pageid":3307,"ns":6,"title":"File:Kliasium-a.png","revisions":[{"revid":18646,"parentid":0,"user":"QWERTY 52 38","timestamp":"2022-03-29T02:45:42Z","comment":""}]}}}}

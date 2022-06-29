@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"269":{"pageid":269,"ns":6,"title":"File:B6F40714-3DEA-48E4-9C27-E92FAA863A08.jpg","revisions":[{"revid":1087,"parentid":0,"user":"QEcat","timestamp":"2021-05-16T12:24:32Z","comment":""}]}}}}

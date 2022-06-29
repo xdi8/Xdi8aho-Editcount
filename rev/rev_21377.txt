@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3613":{"pageid":3613,"ns":2,"title":"User:Kadhar","revisions":[{"revid":21377,"parentid":21246,"user":"Kadhar","timestamp":"2022-06-15T12:31:47Z","comment":""}]}}}}

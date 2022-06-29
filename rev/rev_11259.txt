@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2072":{"pageid":2072,"ns":10,"title":"Template:Colorbox","revisions":[{"revid":11259,"parentid":0,"user":"Flerovias","timestamp":"2021-10-25T07:18:37Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c<font style=\"background-color:{{{1}}};\">{{{1}}}</font>\u201d\u7684\u65b0\u9875\u9762"}]}}}}

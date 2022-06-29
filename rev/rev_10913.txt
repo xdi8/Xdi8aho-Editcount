@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1997":{"pageid":1997,"ns":14,"title":"Category:Pl-2","revisions":[{"revid":10913,"parentid":0,"user":"Babel AutoCreate","timestamp":"2021-10-19T10:51:58Z","comment":"\u81ea\u52a8\u5efa\u7acb[[Project:\u5df4\u5225|\u5df4\u522b]]\u5206\u7c7b\u9875\u3002"}]}}}}

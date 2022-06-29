@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2968":{"pageid":2968,"ns":6,"title":"File:License-plate-letgov.png","revisions":[{"revid":16396,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:10:59Z","comment":""}]}}}}

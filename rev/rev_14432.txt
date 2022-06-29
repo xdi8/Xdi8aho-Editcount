@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2573":{"pageid":2573,"ns":6,"title":"File:Pilapolice.png","revisions":[{"revid":14432,"parentid":0,"user":"Q-2713447885","timestamp":"2022-01-01T06:15:43Z","comment":""}]}}}}

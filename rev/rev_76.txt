@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"33":{"pageid":33,"ns":6,"title":"File:Noart.jpg","revisions":[{"revid":76,"parentid":0,"user":"Honoka55","timestamp":"2021-01-18T07:48:39Z","comment":""}]}}}}

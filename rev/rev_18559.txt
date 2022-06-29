@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"984":{"pageid":984,"ns":2,"title":"User:QWERTY 52 38","revisions":[{"revid":18559,"parentid":18558,"minor":"","user":"QWERTY 52 38","timestamp":"2022-03-28T07:07:55Z","comment":"// Edit via Wikiplus"}]}}}}

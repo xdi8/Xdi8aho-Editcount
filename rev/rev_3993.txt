@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"770":{"pageid":770,"ns":6,"title":"File:CC BY NC ND.png","revisions":[{"revid":3993,"parentid":0,"user":"Sakura.RK","timestamp":"2021-06-26T19:23:25Z","comment":""}]}}}}

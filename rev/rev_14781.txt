@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2628":{"pageid":2628,"ns":6,"title":"File:Starkit.png","revisions":[{"revid":14781,"parentid":0,"user":"Huling","timestamp":"2022-01-08T10:27:59Z","comment":""}]}}}}

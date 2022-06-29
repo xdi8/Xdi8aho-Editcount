@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1578":{"pageid":1578,"ns":6,"title":"File:LET-JSAFLET.png","revisions":[{"revid":8859,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:02Z","comment":""}]}}}}

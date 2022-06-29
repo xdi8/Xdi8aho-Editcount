@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3599":{"pageid":3599,"ns":6,"title":"File:RGCCorporal-LetN.png","revisions":[{"revid":20445,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:04:18Z","comment":""}]}}}}

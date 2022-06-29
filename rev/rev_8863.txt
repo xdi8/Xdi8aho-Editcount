@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1582":{"pageid":1582,"ns":6,"title":"File:LET-Ensign-LN.png","revisions":[{"revid":8863,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:37Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"553":{"pageid":553,"ns":6,"title":"File:Tk.png","revisions":[{"revid":2802,"parentid":0,"user":"Haruka","timestamp":"2021-06-10T16:13:07Z","comment":""}]}}}}

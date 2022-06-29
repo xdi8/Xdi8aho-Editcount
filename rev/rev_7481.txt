@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1378":{"pageid":1378,"ns":6,"title":"File:TSR.png","revisions":[{"revid":7481,"parentid":0,"user":"Haruka","timestamp":"2021-08-23T12:24:32Z","comment":""}]}}}}

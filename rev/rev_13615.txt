@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2447":{"pageid":2447,"ns":6,"title":"File:\u4e1c\u5e0c\u65d7.png","revisions":[{"revid":13615,"parentid":0,"user":"Re-pasako","timestamp":"2021-12-04T07:47:13Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u79fb\u52d5\u9801\u9762[[File:\u4e1c\u5e0c\u65d7.png]]\u81f3[[File:Sas.png]]"}]}}}}

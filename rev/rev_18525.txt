@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2998":{"pageid":2998,"ns":14,"title":"Category:\u857e\u8482\u65af\u5766\u4e00\u7ea7\u884c\u653f\u533a","revisions":[{"revid":18525,"parentid":16655,"user":"QWERTY 52 38","timestamp":"2022-03-28T02:06:32Z","comment":"// Edit via Wikiplus"}]}}}}

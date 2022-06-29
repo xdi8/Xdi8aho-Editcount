@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3433":{"pageid":3433,"ns":6,"title":"File:SupremeDivan2021.png","revisions":[{"revid":19361,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-04-16T04:57:12Z","comment":""}]}}}}

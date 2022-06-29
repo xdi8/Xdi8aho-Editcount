@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2337":{"pageid":2337,"ns":0,"title":"\u5662\u5662\u5403\u996d","revisions":[{"revid":13605,"parentid":13603,"minor":"","user":"Haruka","timestamp":"2021-12-04T05:57:07Z","comment":"/* \u5546\u5bb6\u52a0\u76df */"}]}}}}

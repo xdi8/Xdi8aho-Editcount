@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2636":{"pageid":2636,"ns":6,"title":"File:XHOGOV.png","revisions":[{"revid":14839,"parentid":14838,"user":"Haruka","timestamp":"2022-01-10T03:11:17Z","comment":"Haruka\u4e0a\u4f20[[File:XHOGOV.png]]\u7684\u65b0\u7248\u672c"}]}}}}

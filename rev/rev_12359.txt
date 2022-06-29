@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"badrevids":{"12359":{"revid":12359}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1592":{"pageid":1592,"ns":6,"title":"File:Chasu-Lettistan.png","revisions":[{"revid":8895,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:30:18Z","comment":""}]}}}}

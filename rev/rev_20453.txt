@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3607":{"pageid":3607,"ns":6,"title":"File:StaffSergeant-LetAF.png","revisions":[{"revid":20453,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:05:05Z","comment":""}]}}}}

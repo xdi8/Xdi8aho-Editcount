@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"988":{"pageid":988,"ns":10,"title":"Template:Documentation","revisions":[{"revid":5357,"parentid":5354,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:37:55Z","comment":"// Edit via Wikiplus"}]}}}}

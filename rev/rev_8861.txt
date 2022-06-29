@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1580":{"pageid":1580,"ns":6,"title":"File:LET-GF.png","revisions":[{"revid":8861,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:12Z","comment":""}]}}}}

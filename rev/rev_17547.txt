@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3155":{"pageid":3155,"ns":10,"title":"Template:ColorboxWhite","revisions":[{"revid":17547,"parentid":17546,"minor":"","user":"\u8346\u54f2","timestamp":"2022-03-14T10:30:21Z","comment":"\u8346\u54f2\u79fb\u52a8\u9875\u9762[[Template:Colorbox white]]\u81f3[[Template:ColorboxWhite]]\uff0c\u4e0d\u7559\u91cd\u5b9a\u5411"}]}}}}

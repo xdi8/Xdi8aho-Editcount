@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1620":{"pageid":1620,"ns":6,"title":"File:StaffSergeant-Lettistan.png","revisions":[{"revid":8923,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:37:39Z","comment":""}]}}}}

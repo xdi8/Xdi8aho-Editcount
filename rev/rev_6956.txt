@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1246":{"pageid":1246,"ns":2,"title":"User:DGCK81LNN/common.css","revisions":[{"revid":6956,"parentid":6726,"user":"DGCK81LNN","timestamp":"2021-08-19T11:17:57Z","comment":""}]}}}}

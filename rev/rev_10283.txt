@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1849":{"pageid":1849,"ns":6,"title":"File:Patch-6.png","revisions":[{"revid":10283,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-10-06T07:41:50Z","comment":""}]}}}}

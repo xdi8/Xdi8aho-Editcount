@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"272":{"pageid":272,"ns":6,"title":"File:Ber.jpg","revisions":[{"revid":1092,"parentid":0,"user":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07","timestamp":"2021-05-16T12:44:23Z","comment":""}]}}}}

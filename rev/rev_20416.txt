@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3571":{"pageid":3571,"ns":6,"title":"File:Captain-LetN.png","revisions":[{"revid":20416,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:52:35Z","comment":""}]}}}}

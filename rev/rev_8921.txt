@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1618":{"pageid":1618,"ns":6,"title":"File:RGCCorporal-Lettistan.png","revisions":[{"revid":8921,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:37:30Z","comment":""}]}}}}

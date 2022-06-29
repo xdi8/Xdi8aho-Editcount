@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"574":{"pageid":574,"ns":6,"title":"File:BAB republic.png","revisions":[{"revid":2889,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-14T13:15:29Z","comment":""}]}}}}

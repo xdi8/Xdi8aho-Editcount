@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2752":{"pageid":2752,"ns":6,"title":"File:Meinkampf.jpg","revisions":[{"revid":15621,"parentid":0,"user":"\u4e2d\u539f\u7eca\u7231","timestamp":"2022-01-22T05:07:17Z","comment":"xtl\u4eba\u7269\u30ad\u30ba\u30ca\u30a2\u30a4\u7684\u7acb\u7ed8\u3002"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1200":{"pageid":1200,"ns":6,"title":"File:Telel.jpg","revisions":[{"revid":6312,"parentid":0,"user":"Jashiem","timestamp":"2021-08-12T05:00:01Z","comment":""}]}}}}

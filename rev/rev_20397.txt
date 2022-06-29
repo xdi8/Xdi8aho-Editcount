@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3552":{"pageid":3552,"ns":6,"title":"File:3StarGen-LetAF.png","revisions":[{"revid":20397,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:50:42Z","comment":""}]}}}}

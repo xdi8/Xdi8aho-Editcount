@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3526":{"pageid":3526,"ns":6,"title":"File:Deutsches Reich (1871-1918)-en.png","revisions":[{"revid":20123,"parentid":0,"user":"\u666e\u9c81\u897f\u4e9a\u8054\u90a6\u5171\u548c\u56fd","timestamp":"2022-04-29T02:48:00Z","comment":""}]}}}}

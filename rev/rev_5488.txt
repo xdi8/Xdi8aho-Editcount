@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1053":{"pageid":1053,"ns":6,"title":"File:Flag-SPQR.png","revisions":[{"revid":5488,"parentid":0,"user":"Ivan Ev\u0259","timestamp":"2021-07-28T11:05:11Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1172":{"pageid":1172,"ns":6,"title":"File:Shinz.png","revisions":[{"revid":6150,"parentid":0,"user":"Haruka","timestamp":"2021-08-09T09:25:06Z","comment":""}]}}}}

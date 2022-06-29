@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"603":{"pageid":603,"ns":2,"title":"User:Sakura.RK","revisions":[{"revid":20916,"parentid":20915,"user":"Sakura.RK","timestamp":"2022-05-22T06:42:06Z","comment":""}]}}}}

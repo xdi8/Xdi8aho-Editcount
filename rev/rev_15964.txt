@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2901":{"pageid":2901,"ns":6,"title":"File:59D.png","revisions":[{"revid":15964,"parentid":0,"user":"Haruka","timestamp":"2022-01-23T08:24:41Z","comment":""}]}}}}

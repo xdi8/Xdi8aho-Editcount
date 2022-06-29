@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"10":{"pageid":10,"ns":10,"title":"Template:Xp","revisions":[{"revid":44,"parentid":41,"user":"\u7269\u7075","timestamp":"2021-01-18T03:43:58Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5e0c\u9876\u8bd7\u6b4c]]\u66f4\u6539\u4e3a[[\u6a21\u677f:\u5e0c\u9876\u8bd7\u6b4c]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3306":{"pageid":3306,"ns":0,"title":"Kliasium-a","revisions":[{"revid":19424,"parentid":19423,"minor":"","user":"QWERTY 52 38","timestamp":"2022-04-16T13:44:37Z","comment":"// Edit via Wikiplus"}]}}}}

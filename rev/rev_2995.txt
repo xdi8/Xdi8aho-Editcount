@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"589":{"pageid":589,"ns":6,"title":"File:POR.png","revisions":[{"revid":2995,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-15T06:02:06Z","comment":""}]}}}}

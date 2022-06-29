@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"64":{"pageid":64,"ns":3,"title":"User talk:Haruka","revisions":[{"revid":3428,"parentid":3419,"minor":"","user":"Haruka","timestamp":"2021-06-22T01:39:41Z","comment":"/* \u4e3a\u4f55\u5c06\u300a\u5e0c\u9876\u8bed/en\u300b\u79fb\u52a8\u81f3\u300aShidinnese\u300b\uff1f */"}]}}}}

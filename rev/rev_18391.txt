@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3222":{"pageid":3222,"ns":10,"title":"Template:User klias-3","revisions":[{"revid":18391,"parentid":18015,"minor":"","user":"QWERTY 52 38","timestamp":"2022-03-26T09:28:44Z","comment":"// Edit via Wikiplus"}]}}}}

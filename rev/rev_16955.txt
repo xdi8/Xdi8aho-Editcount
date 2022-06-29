@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3054":{"pageid":3054,"ns":6,"title":"File:Red\u4e4c\u897f\u65d7.png","revisions":[{"revid":16955,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2022-02-11T16:24:04Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2441":{"pageid":2441,"ns":6,"title":"File:60e2f604bd7ea878.jpg","revisions":[{"revid":13585,"parentid":0,"user":"NSA 1606","timestamp":"2021-12-04T02:22:46Z","comment":""}]}}}}

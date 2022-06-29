@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2548":{"pageid":2548,"ns":6,"title":"File:Shirdinnaho.png","revisions":[{"revid":14354,"parentid":0,"user":"Haruka","timestamp":"2021-12-30T12:13:34Z","comment":""}]}}}}

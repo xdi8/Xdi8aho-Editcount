@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3612":{"pageid":3612,"ns":6,"title":"File:RGCRecruit-LetAF.png","revisions":[{"revid":20458,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T01:05:33Z","comment":""}]}}}}

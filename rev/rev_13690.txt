@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2435":{"pageid":2435,"ns":0,"title":"SCP-XD-045:\u5b57\u6bcd\u65b9\u5757","revisions":[{"revid":13690,"parentid":13688,"user":"Q-2713447885","timestamp":"2021-12-04T15:56:00Z","comment":""}]}}}}

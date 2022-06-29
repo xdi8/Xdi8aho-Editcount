@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1373":{"pageid":1373,"ns":6,"title":"File:TTE.png","revisions":[{"revid":7460,"parentid":0,"user":"Haruka","timestamp":"2021-08-23T10:56:20Z","comment":""}]}}}}

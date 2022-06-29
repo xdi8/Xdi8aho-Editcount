@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1988":{"pageid":1988,"ns":14,"title":"Category:Ko \u7528\u6237","revisions":[{"revid":17942,"parentid":10904,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:33:19Z","comment":"// Edit via Wikiplus"}]}}}}

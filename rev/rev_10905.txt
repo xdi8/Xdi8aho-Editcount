@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1989":{"pageid":1989,"ns":14,"title":"Category:Ko-1","revisions":[{"revid":10905,"parentid":0,"user":"Babel AutoCreate","timestamp":"2021-10-19T10:50:56Z","comment":"\u81ea\u52a8\u5efa\u7acb[[Project:\u5df4\u5225|\u5df4\u522b]]\u5206\u7c7b\u9875\u3002"}]}}}}

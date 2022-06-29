@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"411":{"pageid":411,"ns":6,"title":"File:1FD2A314-FA91-4D52-933D-F4A50A2449CA.jpg","revisions":[{"revid":1941,"parentid":0,"user":"QEcat","timestamp":"2021-05-23T14:47:43Z","comment":""}]}}}}

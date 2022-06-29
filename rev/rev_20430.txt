@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3585":{"pageid":3585,"ns":6,"title":"File:Michman-LetN.png","revisions":[{"revid":20430,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:58:55Z","comment":""}]}}}}

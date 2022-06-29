@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2981":{"pageid":2981,"ns":6,"title":"File:LET-StrFor.png","revisions":[{"revid":16481,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-31T03:27:58Z","comment":""}]}}}}

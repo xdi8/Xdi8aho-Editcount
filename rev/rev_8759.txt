@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1538":{"pageid":1538,"ns":10,"title":"Template:LettinabadTime","revisions":[{"revid":8759,"parentid":8649,"minor":"","user":"Aslan Whiterock","timestamp":"2021-09-12T04:59:51Z","comment":""}]}}}}

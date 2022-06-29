@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"648":{"pageid":648,"ns":6,"title":"File:EECO.png","revisions":[{"revid":3367,"parentid":0,"user":"Haruka","timestamp":"2021-06-21T11:14:07Z","comment":""}]}}}}

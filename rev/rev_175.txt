@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"50":{"pageid":50,"ns":10,"title":"Template:Infobox","revisions":[{"revid":175,"parentid":167,"user":"\u7269\u7075","timestamp":"2021-01-20T08:50:20Z","comment":""}]}}}}

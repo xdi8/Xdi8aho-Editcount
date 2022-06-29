@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1966":{"pageid":1966,"ns":6,"title":"File:Xwtl.png","revisions":[{"revid":10753,"parentid":0,"user":"Haruka","timestamp":"2021-10-15T00:14:59Z","comment":""}]}}}}

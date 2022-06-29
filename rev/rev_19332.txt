@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3424":{"pageid":3424,"ns":10,"title":"Template:Dup","revisions":[{"revid":19332,"parentid":0,"user":"\u7269\u7075","timestamp":"2022-04-15T08:06:34Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c<includeonly>{{Info|text=\u6682|leftimage=\ud83d\udecd}}</includeonly><noinclude> </noinclude>\u201d\u7684\u65b0\u9875\u9762"}]}}}}

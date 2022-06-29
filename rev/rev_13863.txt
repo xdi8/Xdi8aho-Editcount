@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2470":{"pageid":2470,"ns":0,"title":"BCEE\u8003\u8bd5","revisions":[{"revid":13863,"parentid":13862,"minor":"","user":"Haruka","timestamp":"2021-12-10T12:18:19Z","comment":""}]}}}}

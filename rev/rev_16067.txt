@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2917":{"pageid":2917,"ns":0,"title":"Amego","revisions":[{"revid":16067,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-24T10:41:08Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u7ef5\u529b\u4e3b\u5408\u4f17\u56fd]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2072":{"pageid":2072,"ns":10,"title":"Template:Colorbox","revisions":[{"revid":11263,"parentid":11262,"minor":"","user":"Aslan Whiterock","timestamp":"2021-10-25T09:48:26Z","comment":"\u6548\u679c\u4e0d\u597d"}]}}}}

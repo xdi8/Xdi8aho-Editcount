@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2267":{"pageid":2267,"ns":6,"title":"File:\u62c9\u4e01\u533b\u62a4\u519b.jpg","revisions":[{"revid":12609,"parentid":0,"user":"EnotswolgEnder","timestamp":"2021-11-16T03:13:44Z","comment":""}]}}}}

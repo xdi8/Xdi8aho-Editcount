@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2495":{"pageid":2495,"ns":0,"title":"LUEE\u8003\u8bd5","revisions":[{"revid":16665,"parentid":14371,"minor":"","user":"Aslan Whiterock","timestamp":"2022-02-06T07:50:31Z","comment":""}]}}}}

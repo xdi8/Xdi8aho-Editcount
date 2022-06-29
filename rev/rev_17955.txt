@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1995":{"pageid":1995,"ns":14,"title":"Category:Pt-2","revisions":[{"revid":17955,"parentid":10911,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:36:19Z","comment":"// Edit via Wikiplus"}]}}}}

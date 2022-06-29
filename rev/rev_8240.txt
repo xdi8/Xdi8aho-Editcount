@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1470":{"pageid":1470,"ns":6,"title":"File:Lat.jpg","revisions":[{"revid":8240,"parentid":0,"user":"EnotswolgEnder","timestamp":"2021-09-07T03:55:56Z","comment":""}]}}}}

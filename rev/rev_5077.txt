@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"955":{"pageid":955,"ns":6,"title":"File:\u897f\u65af\u62c9\u592b\u56fd\u65d7.png","revisions":[{"revid":5077,"parentid":0,"user":"Lithuania","timestamp":"2021-07-20T03:43:20Z","comment":""}]}}}}

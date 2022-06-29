@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3347":{"pageid":3347,"ns":2,"title":"User:\u9057\u8ff9iseki/vector.css","revisions":[{"revid":18952,"parentid":18950,"minor":"","user":"\u9057\u8ff9iseki","timestamp":"2022-04-05T03:34:40Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3569":{"pageid":3569,"ns":6,"title":"File:LieutenantColonel-LetN.png","revisions":[{"revid":20414,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:52:26Z","comment":""}]}}}}

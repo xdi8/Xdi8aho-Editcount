@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2658":{"pageid":2658,"ns":6,"title":"File:Qassaman.jpg","revisions":[{"revid":14971,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-14T04:59:32Z","comment":""}]}}}}

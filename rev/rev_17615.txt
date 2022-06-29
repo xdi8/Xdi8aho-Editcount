@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3170":{"pageid":3170,"ns":6,"title":"File:2560px-War flag of the Imperial Japanese Army.svg.png","revisions":[{"revid":17615,"parentid":0,"user":"\u5c0f\u5b8b","timestamp":"2022-03-18T16:12:57Z","comment":""}]}}}}

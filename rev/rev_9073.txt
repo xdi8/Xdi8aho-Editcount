@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1649":{"pageid":1649,"ns":10,"title":"Template:RIH","revisions":[{"revid":9073,"parentid":9070,"user":"Re-pasako","timestamp":"2021-09-14T15:04:49Z","comment":""}]}}}}

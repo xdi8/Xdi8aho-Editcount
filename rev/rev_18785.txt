@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1610":{"pageid":1610,"ns":6,"title":"File:Sergeant-Lettistan.png","revisions":[{"revid":18785,"parentid":13096,"user":"Aslan Whiterock","timestamp":"2022-04-02T08:51:54Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Sergeant-Lettistan.png]]\u7684\u65b0\u7248\u672c"}]}}}}

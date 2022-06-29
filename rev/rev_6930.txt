@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1295":{"pageid":1295,"ns":6,"title":"File:Mmexport1624767425231.jpg","revisions":[{"revid":6930,"parentid":0,"user":"NSA 1606","timestamp":"2021-08-18T15:59:07Z","comment":""}]}}}}

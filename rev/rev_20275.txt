@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1652":{"pageid":1652,"ns":10,"title":"Template:IRN","revisions":[{"revid":20275,"parentid":20273,"minor":"","user":"Aslan Whiterock","timestamp":"2022-05-03T06:07:07Z","comment":""}]}}}}

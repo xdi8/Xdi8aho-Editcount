@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3059":{"pageid":3059,"ns":14,"title":"Category:Kof-0","revisions":[{"revid":17945,"parentid":16966,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:34:00Z","comment":"// Edit via Wikiplus"}]}}}}

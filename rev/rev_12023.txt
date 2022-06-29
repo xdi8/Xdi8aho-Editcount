@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2162":{"pageid":2162,"ns":6,"title":"File:Yxrmg.png","revisions":[{"revid":12023,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2021-11-05T02:30:00Z","comment":""}]}}}}

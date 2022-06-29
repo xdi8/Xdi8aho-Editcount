@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"28":{"pageid":28,"ns":0,"title":"\u5e0c\u9876\u5b57\u6bcd","revisions":[{"revid":2288,"parentid":2287,"minor":"","user":"Haruka","timestamp":"2021-06-01T04:55:19Z","comment":"/* \u6269\u5145\u5b57\u6bcd */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"804":{"pageid":804,"ns":6,"title":"File:USLR.png","revisions":[{"revid":4192,"parentid":4175,"user":"Re-pasako","timestamp":"2021-07-01T01:26:12Z","comment":""}]}}}}

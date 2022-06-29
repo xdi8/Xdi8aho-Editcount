@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1052":{"pageid":1052,"ns":10,"title":"Template:Msgbox","revisions":[{"revid":5479,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-07-28T10:32:35Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Template:\u6d88\u606f\u6846]]"}]}}}}

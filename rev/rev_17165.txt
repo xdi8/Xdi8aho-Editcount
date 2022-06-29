@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3099":{"pageid":3099,"ns":6,"title":"File:Ubsr.png","revisions":[{"revid":17165,"parentid":0,"user":"Q-2713447885","timestamp":"2022-02-19T11:53:03Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1033":{"pageid":1033,"ns":14,"title":"Category:Wiki\u7ef4\u62a4","revisions":[{"revid":5430,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-28T04:00:38Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c{{catnav|\u7d22\u5f15}}{{MBW}} [[Category:\u7d22\u5f15]] {{\u7d22\u5f15\u5206\u7c7b}}\u201d\u7684\u65b0\u9875\u9762"}]}}}}

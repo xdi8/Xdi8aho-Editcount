@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"227":{"pageid":227,"ns":0,"title":"\u7ef5\u529b\u4e3b\u5408\u4f17\u56fd","revisions":[{"revid":5059,"parentid":5058,"minor":"","user":"Haruka","timestamp":"2021-07-18T16:24:57Z","comment":"/* \u56fd\u6b4c */"}]}}}}

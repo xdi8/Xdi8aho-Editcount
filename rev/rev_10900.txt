@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1984":{"pageid":1984,"ns":14,"title":"Category:Ja \u7528\u6237","revisions":[{"revid":10900,"parentid":0,"user":"Babel AutoCreate","timestamp":"2021-10-19T10:50:21Z","comment":"\u81ea\u52a8\u5efa\u7acb[[Project:\u5df4\u5225|\u5df4\u522b]]\u5206\u7c7b\u9875\u3002"}]}}}}

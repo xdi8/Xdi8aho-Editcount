@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1016":{"pageid":1016,"ns":10,"title":"Template:Navbox subgroup","revisions":[{"revid":5412,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-28T03:05:04Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2880":{"pageid":2880,"ns":5,"title":"\u5e0c\u9876\u7ef4\u57fa talk:\u4e92\u52a9\u5ba2\u6808","revisions":[{"revid":15885,"parentid":15884,"user":"KHWANG280","timestamp":"2022-01-23T03:09:00Z","comment":"\u6e05\u7a7a\u5168\u90e8\u5185\u5bb9"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"41":{"pageid":41,"ns":828,"title":"\u6a21\u5757:String","revisions":[{"revid":114,"parentid":110,"user":"\u7269\u7075","timestamp":"2021-01-19T14:13:31Z","comment":"\u6b63\u786e\u6536\u5c3e\uff0c\u6055\u6211\u6ca1\u6709\u7528\u8fc7 Lua \u811a\u672c"}]}}}}

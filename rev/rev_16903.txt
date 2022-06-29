@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3043":{"pageid":3043,"ns":6,"title":"File:Chita.png","revisions":[{"revid":16903,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2022-02-10T06:09:02Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2282":{"pageid":2282,"ns":6,"title":"File:Qrcode 1637319617985.jpg","revisions":[{"revid":12704,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-11-19T11:03:11Z","comment":""}]}}}}

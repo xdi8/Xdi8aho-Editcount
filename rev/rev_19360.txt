@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3432":{"pageid":3432,"ns":6,"title":"File:SupremeDivan1989.png","revisions":[{"revid":19360,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-04-16T04:57:08Z","comment":""}]}}}}

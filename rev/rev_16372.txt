@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2957":{"pageid":2957,"ns":6,"title":"File:Jihadist.png","revisions":[{"revid":16372,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-28T14:03:54Z","comment":""}]}}}}

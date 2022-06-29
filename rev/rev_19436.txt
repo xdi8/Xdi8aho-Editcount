@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3442":{"pageid":3442,"ns":6,"title":"File:DRI.png","revisions":[{"revid":19436,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-04-16T14:54:16Z","comment":""}]}}}}

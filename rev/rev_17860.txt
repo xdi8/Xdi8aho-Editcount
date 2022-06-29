@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1993":{"pageid":1993,"ns":14,"title":"Category:Ar-1","revisions":[{"revid":17860,"parentid":10909,"user":"QWERTY 52 38","timestamp":"2022-03-25T10:54:06Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2432":{"pageid":2432,"ns":14,"title":"Category:SCP-XD\uff08SCP\u57fa\u91d1\u4f1a\u5e0c\u9876\u5206\u90e8\uff09","revisions":[{"revid":15677,"parentid":15676,"user":"Nu3khoci3","timestamp":"2022-01-22T14:21:42Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3052":{"pageid":3052,"ns":6,"title":"File:Mapsnss.jpg","revisions":[{"revid":16950,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2022-02-11T11:43:51Z","comment":""}]}}}}

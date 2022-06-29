@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3447":{"pageid":3447,"ns":3,"title":"User talk:QWERTY 52 38","revisions":[{"revid":21048,"parentid":21045,"user":"\u9093\u5e03\u5229\u591a\u6700\u559c\u6b22\u7684\u5b66\u751f","timestamp":"2022-05-30T13:37:26Z","comment":"/* \u5e0c\u9876\u4e16\u754c\u7ebf\u6761\u76ee\u7684\u4fee\u6539 */"}]}}}}

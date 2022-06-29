@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3017":{"pageid":3017,"ns":6,"title":"File:Stavnew.png","revisions":[{"revid":16770,"parentid":0,"user":"Nalev Sislevich","timestamp":"2022-02-09T13:29:03Z","comment":""}]}}}}

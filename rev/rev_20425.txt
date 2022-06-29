@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3580":{"pageid":3580,"ns":6,"title":"File:Corporal-LetAF.png","revisions":[{"revid":20425,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:58:08Z","comment":""}]}}}}

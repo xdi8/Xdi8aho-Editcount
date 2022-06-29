@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3523":{"pageid":3523,"ns":6,"title":"File:1989\u5e74\u67cf\u6797\u5899\u5012\u584c\uff1b\u80cc\u666f\u4e3a\u52c3\u5170\u767b\u5821\u95e8.jpg","revisions":[{"revid":20115,"parentid":0,"user":"\u666e\u9c81\u897f\u4e9a\u8054\u90a6\u5171\u548c\u56fd","timestamp":"2022-04-29T02:00:52Z","comment":""}]}}}}

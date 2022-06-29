@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2881":{"pageid":2881,"ns":2,"title":"User:KHWANG280","revisions":[{"revid":16030,"parentid":15886,"user":"KHWANG280","timestamp":"2022-01-24T08:19:18Z","comment":""}]}}}}

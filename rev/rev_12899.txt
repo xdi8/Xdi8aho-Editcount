@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2322":{"pageid":2322,"ns":0,"title":"XOI","revisions":[{"revid":12899,"parentid":12845,"minor":"","user":"Haruka","timestamp":"2021-11-21T12:52:38Z","comment":""}]}}}}

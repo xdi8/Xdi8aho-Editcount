@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2958":{"pageid":2958,"ns":6,"title":"File:LET-LettinabadCity.png","revisions":[{"revid":16374,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-28T14:22:47Z","comment":""}]}}}}

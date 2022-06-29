@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1002":{"pageid":1002,"ns":0,"title":"\u5e0c\u5415 (\u6d88\u6b67\u4e49)","revisions":[{"revid":12089,"parentid":12088,"user":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07","timestamp":"2021-11-06T16:06:23Z","comment":""}]}}}}

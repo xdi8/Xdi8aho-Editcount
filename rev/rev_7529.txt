@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1382":{"pageid":1382,"ns":6,"title":"File:Map-Lettistan.png","revisions":[{"revid":7529,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-08-24T08:47:59Z","comment":""}]}}}}

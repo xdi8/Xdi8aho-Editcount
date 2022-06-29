@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"572":{"pageid":572,"ns":1,"title":"Talk:\u5e0c\u671b\u8bed","revisions":[{"revid":2880,"parentid":2879,"user":"XiaoPa114514","timestamp":"2021-06-13T14:02:45Z","comment":"/* \u540d\u79f0\u95ee\u9898 */"}]}}}}

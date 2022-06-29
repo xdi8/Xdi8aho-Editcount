@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2969":{"pageid":2969,"ns":6,"title":"File:License-plate-protocol.png","revisions":[{"revid":16397,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:11:43Z","comment":""}]}}}}

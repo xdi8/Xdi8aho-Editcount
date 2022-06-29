@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1444":{"pageid":1444,"ns":0,"title":"\ue0cc\ue032\ue091\ue06c\ue09d\ue06f\ue060:\ue093\ue060\ue060\ue0c1\ue06f\ue063\ue091\ue03c","revisions":[{"revid":8015,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-08-29T15:06:39Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Special:AllPages]]"}]}}}}

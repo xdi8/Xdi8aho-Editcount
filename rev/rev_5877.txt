@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1142":{"pageid":1142,"ns":2,"title":"User:Honoka55/common.css","revisions":[{"revid":5877,"parentid":5876,"minor":"","user":"Honoka55","timestamp":"2021-08-01T11:39:34Z","comment":"// Edit via Wikiplus"}]}}}}

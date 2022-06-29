@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3680":{"pageid":3680,"ns":6,"title":"File:\u9752\u5c9b\u5730\u94c1\u6d3b\u52a8\u914d\u8272\u65b9\u6848\u00b7\u4e3b\u8272.png","revisions":[{"revid":20934,"parentid":0,"user":"\u96ea\u677e\u9634Neagr Zire Cedar","timestamp":"2022-05-25T01:59:35Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3168":{"pageid":3168,"ns":6,"title":"File:Flag of Japan.webp","revisions":[{"revid":17612,"parentid":0,"user":"\u5c0f\u5b8b","timestamp":"2022-03-18T15:58:09Z","comment":""}]}}}}

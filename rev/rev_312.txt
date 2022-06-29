@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"123":{"pageid":123,"ns":10,"title":"Template:Declare","revisions":[{"revid":312,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-02-04T12:19:15Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:\u58f0\u660e]]"}]}}}}

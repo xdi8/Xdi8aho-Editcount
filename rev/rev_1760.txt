@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"340":{"pageid":340,"ns":8,"title":"MediaWiki:Conversiontable/zh-mo","revisions":[{"revid":1760,"parentid":1585,"user":"\u7269\u7075","timestamp":"2021-05-22T00:45:58Z","comment":""}]}}}}

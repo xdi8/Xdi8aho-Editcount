@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"966":{"pageid":966,"ns":6,"title":"File:TAWANTINSUYU.png","revisions":[{"revid":5135,"parentid":0,"user":"DDFXRD","timestamp":"2021-07-21T14:24:44Z","comment":""}]}}}}

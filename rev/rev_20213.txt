@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3530":{"pageid":3530,"ns":6,"title":"File:LET-Wartime-3.png","revisions":[{"revid":20213,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-02T01:59:19Z","comment":""}]}}}}

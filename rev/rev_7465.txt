@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1374":{"pageid":1374,"ns":6,"title":"File:RSFSR.png","revisions":[{"revid":7465,"parentid":0,"user":"Haruka","timestamp":"2021-08-23T11:12:09Z","comment":""}]}}}}

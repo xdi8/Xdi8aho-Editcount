@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3097":{"pageid":3097,"ns":3824,"title":"\u751f\u8349:XTL \uff08\u6d88\u6b67\u4e49\uff09","revisions":[{"revid":19552,"parentid":19111,"user":"\u5b6c\u4fee\u8ba2\u6211\u54c8\u54c8\u54c8\u54c8\u54c8","timestamp":"2022-04-18T06:03:53Z","comment":"\u6765\u81ea\u4e00\u4e2a\u4e0d\u61c2\u5e0c\u9876\u7684\u4eba\u7684\u72c2\u66b4\u8bf7\u6c42"}]}}}}

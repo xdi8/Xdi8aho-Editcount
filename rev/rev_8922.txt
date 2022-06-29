@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1619":{"pageid":1619,"ns":6,"title":"File:RGCSergeant-Lettistan.png","revisions":[{"revid":8922,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:37:34Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3056":{"pageid":3056,"ns":6,"title":"File:RedChita.png","revisions":[{"revid":16957,"parentid":0,"user":"\u96c5\u7199\u4eba\u6c11\u56fd","timestamp":"2022-02-11T16:25:48Z","comment":""}]}}}}

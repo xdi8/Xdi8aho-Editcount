@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2577":{"pageid":2577,"ns":6,"title":"File:\u6625\u8fd0.jpg","revisions":[{"revid":14450,"parentid":0,"user":"Haruka","timestamp":"2022-01-01T08:16:54Z","comment":""}]}}}}

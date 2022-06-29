@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"379":{"pageid":379,"ns":6,"title":"File:Gbr.jpeg","revisions":[{"revid":5955,"parentid":1845,"user":"Lius","timestamp":"2021-08-04T06:10:16Z","comment":"Lius \u4e0a\u50b3\u4e86\u65b0\u7248\u672c\u7684 [[File:\u5927\u7f57\u6c11\u56fd.jpeg]]"}]}}}}

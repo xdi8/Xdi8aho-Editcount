@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":10,"title":"Template:Color","revisions":[{"revid":55,"parentid":29,"minor":"","user":"Honoka55","timestamp":"2021-01-18T04:31:14Z","comment":""}]}}}}

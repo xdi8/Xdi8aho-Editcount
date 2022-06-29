@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3570":{"pageid":3570,"ns":6,"title":"File:Major-LetN.png","revisions":[{"revid":20415,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:52:30Z","comment":""}]}}}}

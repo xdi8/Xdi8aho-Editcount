@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3312":{"pageid":3312,"ns":6,"title":"File:Xtlmap 001.png","revisions":[{"revid":18671,"parentid":0,"user":"Nalev Sislevich","timestamp":"2022-03-30T14:00:57Z","comment":""}]}}}}

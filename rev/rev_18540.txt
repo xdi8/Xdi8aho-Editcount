@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1955":{"pageid":1955,"ns":0,"title":"\u6b4c\u66f2","revisions":[{"revid":18540,"parentid":10680,"user":"QWERTY 52 38","timestamp":"2022-03-28T02:18:14Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5e0c\u9876\u6b4c\u66f2\u5217\u8868]]\u66f4\u6539\u4e3a[[Category:\u6b4c\u66f2]]"}]}}}}

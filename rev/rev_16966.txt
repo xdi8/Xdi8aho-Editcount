@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3059":{"pageid":3059,"ns":14,"title":"Category:Kof-0","revisions":[{"revid":16966,"parentid":0,"user":"Babel AutoCreate","timestamp":"2022-02-12T16:56:48Z","comment":"\u81ea\u52a8\u5efa\u7acb[[Project:\u5df4\u5225|\u5df4\u522b]]\u5206\u7c7b\u9875\u3002"}]}}}}

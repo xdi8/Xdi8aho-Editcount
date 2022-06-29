@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"173":{"pageid":173,"ns":6,"title":"File:Drs.png","revisions":[{"revid":543,"parentid":0,"user":"Haruka","timestamp":"2021-04-28T10:38:32Z","comment":""}]}}}}

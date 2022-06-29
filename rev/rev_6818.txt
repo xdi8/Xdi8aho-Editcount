@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1278":{"pageid":1278,"ns":4,"title":"\u5e0c\u9876\u7ef4\u57fa:STYLE","revisions":[{"revid":6818,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-08-16T09:41:28Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u5e0c\u9876\u7ef4\u57fa:\u683c\u5f0f\u624b\u518c]]"}]}}}}

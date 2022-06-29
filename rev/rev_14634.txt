@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2606":{"pageid":2606,"ns":6,"title":"File:CPI.jpg","revisions":[{"revid":14634,"parentid":0,"user":"Haruka","timestamp":"2022-01-03T08:59:48Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"853":{"pageid":853,"ns":6,"title":"File:\u76ee\u9ed2\u60a0\u8f89.jpg","revisions":[{"revid":4569,"parentid":0,"user":"Re-pasako","timestamp":"2021-07-05T06:09:50Z","comment":""}]}}}}

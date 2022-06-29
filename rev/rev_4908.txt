@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"942":{"pageid":942,"ns":6,"title":"File:500In.png","revisions":[{"revid":4908,"parentid":0,"user":"Haruka","timestamp":"2021-07-12T09:31:36Z","comment":""}]}}}}

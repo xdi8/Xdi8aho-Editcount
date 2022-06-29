@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"349":{"pageid":349,"ns":6,"title":"File:\u65e5\u51fa\u4eba\u53e3\u5206\u4f48.png","revisions":[{"revid":1645,"parentid":0,"user":"Re-pasako","timestamp":"2021-05-21T13:50:31Z","comment":""}]}}}}

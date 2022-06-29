@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3476":{"pageid":3476,"ns":6,"title":"File:LET-Vertical.png","revisions":[{"revid":19808,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-04-22T12:30:26Z","comment":""}]}}}}

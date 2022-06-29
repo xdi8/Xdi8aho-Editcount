@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"32":{"pageid":32,"ns":8,"title":"MediaWiki:Tagline","revisions":[{"revid":1573,"parentid":1572,"minor":"","user":"\u7269\u7075","timestamp":"2021-05-21T11:37:10Z","comment":"\u64a4\u9500[[Special:Contributions/\u7269\u7075|\u7269\u7075]]\uff08[[User talk:\u7269\u7075|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c1572"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1587":{"pageid":1587,"ns":6,"title":"File:LET-KamishCity.png","revisions":[{"revid":8868,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:28:07Z","comment":""}]}}}}

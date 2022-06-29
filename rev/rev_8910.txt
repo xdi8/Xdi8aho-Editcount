@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1607":{"pageid":1607,"ns":6,"title":"File:Praporshchik-Lettistan.png","revisions":[{"revid":8910,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:32:34Z","comment":""}]}}}}

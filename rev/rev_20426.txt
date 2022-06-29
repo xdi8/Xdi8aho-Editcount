@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3581":{"pageid":3581,"ns":6,"title":"File:Gefreiter-LetAF.png","revisions":[{"revid":20426,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:58:13Z","comment":""}]}}}}

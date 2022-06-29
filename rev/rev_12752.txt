@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2297":{"pageid":2297,"ns":0,"title":"\u5e0c\u9876APP\u5217\u8868","revisions":[{"revid":12752,"parentid":0,"user":"Haruka","timestamp":"2021-11-20T00:09:14Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u5e0c\u9876\u8bed\u624b\u673aAPP\u5217\u8868]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"412":{"pageid":412,"ns":6,"title":"File:F4FA3ADF-129B-48CA-81C0-428BF5219587.png","revisions":[{"revid":1942,"parentid":0,"user":"QEcat","timestamp":"2021-05-23T14:48:19Z","comment":""}]}}}}

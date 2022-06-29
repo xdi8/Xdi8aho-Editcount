@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1098":{"pageid":1098,"ns":6,"title":"File:Nuniwei.jpg","revisions":[{"revid":5698,"parentid":0,"user":"Flerovias","timestamp":"2021-07-29T14:24:35Z","comment":""}]}}}}

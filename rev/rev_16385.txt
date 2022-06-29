@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2964":{"pageid":2964,"ns":6,"title":"File:\u6d4b\u8bd5 SVG \u4e0a\u4f20\uff0c\u7a0d\u540e\u5220.svg","revisions":[{"revid":16385,"parentid":0,"user":"\u7269\u7075","timestamp":"2022-01-29T10:06:53Z","comment":"\u6d4b\u8bd5 SVG \u4e0a\u4f20\uff0c\u7a0d\u540e\u5220"}]}}}}

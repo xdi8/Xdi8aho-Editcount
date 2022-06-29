@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1581":{"pageid":1581,"ns":6,"title":"File:LET-AF.png","revisions":[{"revid":8862,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:19Z","comment":""}]}}}}

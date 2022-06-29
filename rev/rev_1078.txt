@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"265":{"pageid":265,"ns":6,"title":"File:\u81f4\u8fdclogo\u65d7.png","revisions":[{"revid":1078,"parentid":0,"user":"Zhiyuan233","timestamp":"2021-05-16T10:14:39Z","comment":""}]}}}}

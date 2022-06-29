@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1132":{"pageid":1132,"ns":2,"title":"User:Flerovias","revisions":[{"revid":11132,"parentid":11131,"user":"Flerovias","timestamp":"2021-10-22T13:42:46Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2268":{"pageid":2268,"ns":0,"title":"People's Republic of Latin","revisions":[{"revid":21203,"parentid":15994,"user":"\u7269\u7075","timestamp":"2022-06-07T15:19:07Z","comment":""}]}}}}

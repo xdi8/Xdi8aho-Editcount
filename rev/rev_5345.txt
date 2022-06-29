@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"985":{"pageid":985,"ns":2,"title":"User:QWERTY 52 38/common.js","revisions":[{"revid":5345,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:27:36Z","comment":"\u5373\u5c06\u5f00\u59cb\u5bf9wiki\u5927\u6539"}]}}}}

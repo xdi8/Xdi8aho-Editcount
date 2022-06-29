@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3058":{"pageid":3058,"ns":10,"title":"Template:User kof-0","revisions":[{"revid":20878,"parentid":16965,"minor":"","user":"QWERTY 52 38","timestamp":"2022-05-21T09:59:45Z","comment":"// Edit via Wikiplus"}]}}}}

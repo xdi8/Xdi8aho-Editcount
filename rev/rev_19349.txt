@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3427":{"pageid":3427,"ns":6,"title":"File:CCHC.png","revisions":[{"revid":19349,"parentid":0,"user":"\u5170\u65af\u514b\u592b-\u67f4\u53ef\u592b\u65af\u57fa-KCCP-Y","timestamp":"2022-04-16T03:39:34Z","comment":""}]}}}}

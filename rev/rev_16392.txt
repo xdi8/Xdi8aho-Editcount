@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1810":{"pageid":1810,"ns":6,"title":"File:License-plate.png","revisions":[{"revid":16392,"parentid":10080,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:04:18Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:License-plate.png]]\u7684\u65b0\u7248\u672c"}]}}}}

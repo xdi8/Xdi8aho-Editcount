@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2944":{"pageid":2944,"ns":6,"title":"File:Letvis.png","revisions":[{"revid":16206,"parentid":0,"user":"Q-2713447885","timestamp":"2022-01-26T06:26:34Z","comment":""}]}}}}

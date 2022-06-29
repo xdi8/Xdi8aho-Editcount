@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1583":{"pageid":1583,"ns":6,"title":"File:LET-NavalJack-LN.png","revisions":[{"revid":8864,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-12T11:27:40Z","comment":""}]}}}}

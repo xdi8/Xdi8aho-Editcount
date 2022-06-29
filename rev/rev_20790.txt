@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3637":{"pageid":3637,"ns":4,"title":"\u5e0c\u9876\u7ef4\u57fa:\u4eba\u5458\u4efb\u514d","revisions":[{"revid":20790,"parentid":20789,"minor":"","user":"\u7269\u7075","timestamp":"2022-05-20T02:45:54Z","comment":"/* \u5173\u4e8e\u7f16\u8f91\u79ef\u5206 */ MediaWiki \u547d\u540d\u7a7a\u95f4\u662f\u754c\u9762\u7ba1\u7406\u5458"}]}}}}

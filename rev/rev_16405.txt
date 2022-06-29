@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2975":{"pageid":2975,"ns":6,"title":"File:License-plate-political.png","revisions":[{"revid":16405,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-01-29T14:27:54Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"985":{"pageid":985,"ns":2,"title":"User:QWERTY 52 38/common.js","revisions":[{"revid":5347,"parentid":5345,"user":"QWERTY 52 38","timestamp":"2021-07-27T14:28:30Z","comment":"// Edit via Wikiplus"}]}}}}

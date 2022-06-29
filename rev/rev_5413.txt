@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1017":{"pageid":1017,"ns":10,"title":"Template:Navbar","revisions":[{"revid":5413,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-28T03:05:40Z","comment":"// Edit via Wikiplus"}]}}}}

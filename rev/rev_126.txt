@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"42":{"pageid":42,"ns":10,"title":"Template:0","revisions":[{"revid":126,"parentid":0,"user":"Honoka55","timestamp":"2021-01-20T06:02:08Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c<includeonly><span style=\"speak:none;visibility:hidden;color:transparent\">{{{1|0}}}</span></includeonly>\u201d\u7684\u65b0\u9875\u9762"}]}}}}

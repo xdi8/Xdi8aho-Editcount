@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2465":{"pageid":2465,"ns":0,"title":"SCP-XD-088:COVID-88","revisions":[{"revid":18978,"parentid":15681,"user":"LEHH\u5165f2H","timestamp":"2022-04-05T13:06:34Z","comment":"/* XD-88-A */"}]}}}}

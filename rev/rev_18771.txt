@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1615":{"pageid":1615,"ns":6,"title":"File:RGCRecruit-Lettistan.png","revisions":[{"revid":18771,"parentid":8918,"user":"Aslan Whiterock","timestamp":"2022-04-02T08:50:40Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:RGCRecruit-Lettistan.png]]\u7684\u65b0\u7248\u672c"}]}}}}

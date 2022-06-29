@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3559":{"pageid":3559,"ns":6,"title":"File:Captain-LetAF.png","revisions":[{"revid":20404,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:51:15Z","comment":""}]}}}}

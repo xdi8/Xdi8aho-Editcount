@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"24":{"pageid":24,"ns":10,"title":"Template:X","revisions":[{"revid":7386,"parentid":7365,"user":"\u96e8\u97f3\u6d45\u590f","timestamp":"2021-08-22T13:07:52Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Template:\u5e0c\u9876]]\u66f4\u6539\u4e3a[[Template:\u5e0c\u9876old]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"505":{"pageid":505,"ns":6,"title":"File:Poz-flag.png","revisions":[{"revid":2681,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-10T06:53:13Z","comment":""}]}}}}

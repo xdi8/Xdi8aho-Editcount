@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1987":{"pageid":1987,"ns":14,"title":"Category:Kr-1","revisions":[{"revid":17947,"parentid":10903,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:34:26Z","comment":"// Edit via Wikiplus"}]}}}}

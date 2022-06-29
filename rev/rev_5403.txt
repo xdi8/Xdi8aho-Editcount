@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1008":{"pageid":1008,"ns":6,"title":"File:Commons-emblem-issue.png","revisions":[{"revid":5403,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-28T02:51:35Z","comment":""}]}}}}

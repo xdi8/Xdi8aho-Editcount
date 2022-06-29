@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"50":{"pageid":50,"ns":10,"title":"Template:Infobox","revisions":[{"revid":167,"parentid":147,"minor":"","user":"Honoka55","timestamp":"2021-01-20T08:02:49Z","comment":"// Edit via Wikiplus"}]}}}}

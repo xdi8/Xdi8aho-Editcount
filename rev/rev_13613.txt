@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2446":{"pageid":2446,"ns":6,"title":"File:\u5927\u7f57\u6c11\u56fd.jpeg","revisions":[{"revid":13613,"parentid":0,"user":"Re-pasako","timestamp":"2021-12-04T07:45:55Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u79fb\u52d5\u9801\u9762[[File:\u5927\u7f57\u6c11\u56fd.jpeg]]\u81f3[[File:Gbr.jpeg]]"}]}}}}

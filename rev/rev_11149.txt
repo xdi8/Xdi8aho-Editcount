@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2055":{"pageid":2055,"ns":6,"title":"File:\u5e26\u65e5\u8033\u66fc.png","revisions":[{"revid":11149,"parentid":0,"user":"Haruka","timestamp":"2021-10-23T03:24:19Z","comment":""}]}}}}

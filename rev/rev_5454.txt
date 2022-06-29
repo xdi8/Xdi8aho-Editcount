@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1047":{"pageid":1047,"ns":0,"title":"\u745e\u798f\u5c3c\u4e9a\u5171\u548c\u56fd","revisions":[{"revid":5454,"parentid":0,"user":"\u9057\u8ff9iseki","timestamp":"2021-07-28T09:16:35Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u65e5\u51fa\u5171\u548c\u56fd]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1953":{"pageid":1953,"ns":0,"title":"KTL","revisions":[{"revid":10674,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-10-12T13:59:04Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u79d1\u592b\u4e16\u754c\u7ebf]]"}]}}}}

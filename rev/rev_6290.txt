@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1197":{"pageid":1197,"ns":3,"title":"User talk:49.118.171.180","revisions":[{"revid":6290,"parentid":0,"user":"\u7269\u7075","timestamp":"2021-08-11T12:00:50Z","comment":"/* \u5173\u4e8e\u6807\u51c6\u8bd1\u540d */"}]}}}}

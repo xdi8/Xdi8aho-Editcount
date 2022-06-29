@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"466":{"pageid":466,"ns":0,"title":"Shidinn language","revisions":[{"revid":2248,"parentid":2238,"minor":"","user":"Haruka","timestamp":"2021-05-31T06:29:33Z","comment":""}]}}}}

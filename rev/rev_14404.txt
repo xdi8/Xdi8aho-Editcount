@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1353":{"pageid":1353,"ns":6,"title":"File:LET-DRL.png","revisions":[{"revid":14404,"parentid":7239,"minor":"","user":"Aslan Whiterock","timestamp":"2022-01-01T05:01:33Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:Flag-DRLettistan.png]]\u81f3[[File:LET-DRL.png]]"}]}}}}

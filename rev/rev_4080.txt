@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"785":{"pageid":785,"ns":6,"title":"File:STLOSM.jpg","revisions":[{"revid":4080,"parentid":0,"user":"Haruka","timestamp":"2021-06-27T15:07:38Z","comment":""}]}}}}

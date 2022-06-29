@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1981":{"pageid":1981,"ns":14,"title":"Category:Fr-1","revisions":[{"revid":17934,"parentid":10897,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:30:29Z","comment":"// Edit via Wikiplus"}]}}}}

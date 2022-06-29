@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1996":{"pageid":1996,"ns":14,"title":"Category:Pl \u7528\u6237","revisions":[{"revid":17952,"parentid":10912,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:36:02Z","comment":"// Edit via Wikiplus"}]}}}}

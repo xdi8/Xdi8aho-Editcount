@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3557":{"pageid":3557,"ns":6,"title":"File:LieutenantColonel-LetAF.png","revisions":[{"revid":20402,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-08T00:51:06Z","comment":""}]}}}}

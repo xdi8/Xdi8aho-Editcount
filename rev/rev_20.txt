@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"6":{"pageid":6,"ns":2,"title":"User:Honoka55/common.js","revisions":[{"revid":20,"parentid":9,"minor":"","user":"Honoka55","timestamp":"2021-01-17T19:25:07Z","comment":""}]}}}}

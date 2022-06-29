@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1614":{"pageid":1614,"ns":6,"title":"File:Recruit-Lettistan.png","revisions":[{"revid":8917,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:33:47Z","comment":""}]}}}}

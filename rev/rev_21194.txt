@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3704":{"pageid":3704,"ns":0,"title":"Shidinnische Sprache","revisions":[{"revid":21194,"parentid":21193,"minor":"","user":"\u7269\u7075","timestamp":"2022-06-07T15:01:38Z","comment":""}]}}}}

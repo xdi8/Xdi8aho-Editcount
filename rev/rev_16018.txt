@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"64":{"pageid":64,"ns":3,"title":"User talk:Haruka","revisions":[{"revid":16018,"parentid":16017,"user":"KHWANG280","timestamp":"2022-01-24T07:15:42Z","comment":""}]}}}}

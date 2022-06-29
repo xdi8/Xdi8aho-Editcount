@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3323":{"pageid":3323,"ns":10,"title":"Template:User einstein quote","revisions":[{"revid":18733,"parentid":18730,"minor":"","user":"\u7269\u7075","timestamp":"2022-03-31T02:54:01Z","comment":""}]}}}}

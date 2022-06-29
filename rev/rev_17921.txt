@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1978":{"pageid":1978,"ns":14,"title":"Category:En \u7528\u6237","revisions":[{"revid":17921,"parentid":10894,"user":"QWERTY 52 38","timestamp":"2022-03-25T11:26:49Z","comment":"// Edit via Wikiplus"}]}}}}

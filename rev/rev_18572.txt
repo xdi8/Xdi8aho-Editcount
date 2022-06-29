@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"427":{"pageid":427,"ns":0,"title":"\u6587\u5e93/\u5c0f\u8bf4/xdi8-b \u5f00\u5e55\u5f0f","revisions":[{"revid":18572,"parentid":17198,"user":"QWERTY 52 38","timestamp":"2022-03-28T08:12:25Z","comment":"// Edit via Wikiplus"}]}}}}

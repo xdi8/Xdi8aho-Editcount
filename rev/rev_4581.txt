@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"860":{"pageid":860,"ns":0,"title":"\u8054\u90a6\u6700\u9ad8\u59d4\u5458\u4f1a(\u65e5\u51fa)","revisions":[{"revid":4581,"parentid":4580,"user":"Re-pasako","timestamp":"2021-07-05T06:18:20Z","comment":"/* \u59d4\u54e1 */"}]}}}}

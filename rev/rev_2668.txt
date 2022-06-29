@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"501":{"pageid":501,"ns":6,"title":"File:\u706f\u7e9f\u706b\u56fd\u5730\u56fe\u4e0a\u7684\u65e5\u672c.png","revisions":[{"revid":2668,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-10T05:21:10Z","comment":""}]}}}}

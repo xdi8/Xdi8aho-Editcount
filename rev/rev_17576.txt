@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3159":{"pageid":3159,"ns":6,"title":"File:Bangal.jpg","revisions":[{"revid":17576,"parentid":0,"user":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07","timestamp":"2022-03-15T14:41:19Z","comment":""}]}}}}

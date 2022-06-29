@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3532":{"pageid":3532,"ns":6,"title":"File:LET-Provisional.png","revisions":[{"revid":20216,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-05-02T02:02:25Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1598":{"pageid":1598,"ns":6,"title":"File:Colonel-Lettistan.png","revisions":[{"revid":8901,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-13T01:30:43Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"672":{"pageid":672,"ns":0,"title":"\u6cf0\u738b\u56fd","revisions":[{"revid":10031,"parentid":5325,"minor":"","user":"Aslan Whiterock","timestamp":"2021-10-01T07:37:00Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u5927\u6cf0\u738b\u56fd]]"}]}}}}

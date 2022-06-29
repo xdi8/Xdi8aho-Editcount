@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3397":{"pageid":3397,"ns":4,"title":"\u5e0c\u9876\u7ef4\u57fa:AFD","revisions":[{"revid":19226,"parentid":0,"user":"\u7269\u7075","timestamp":"2022-04-13T05:56:00Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u5e0c\u9876\u7ef4\u57fa:\u9875\u9762\u5b58\u5e9f\u8ba8\u8bba]]"}]}}}}

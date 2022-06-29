@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"512":{"pageid":512,"ns":6,"title":"File:1d3.png","revisions":[{"revid":2716,"parentid":0,"user":"Haruka","timestamp":"2021-06-10T09:23:30Z","comment":""}]}}}}
