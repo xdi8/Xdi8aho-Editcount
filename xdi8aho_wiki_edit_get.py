@@ -86,6 +86,6 @@ def make_workbook(dic: dict, filename=f"xdi8aho-wiki-useredit-{localtime().tm_ye
 
 
 if __name__ == "__main__":
-    # get_revs(21212, 21607)
-    make_workbook(get_edit_score_dic(1, 21607))
+    get_revs(21607, 21619)
+    make_workbook(get_edit_score_dic(1, 21619))
     print("Finished!")
