@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3469":{"pageid":3469,"ns":2,"title":"User:Aslan Whiterock/\u6c99\u76d2/\u5e0c\u857e\u8bed","revisions":[{"revid":19768,"parentid":19766,"minor":"","user":"Aslan Whiterock","timestamp":"2022-04-22T05:14:01Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"19768":{"revid":19768}}}}

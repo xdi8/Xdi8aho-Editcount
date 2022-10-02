@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3775":{"pageid":3775,"ns":14,"title":"Category:Qu-3","revisions":[{"revid":21648,"parentid":21646,"minor":"","user":"\u7269\u7075","timestamp":"2022-06-30T15:08:52Z","comment":""}]}}}}

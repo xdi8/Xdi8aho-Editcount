@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1188":{"pageid":1188,"ns":0,"title":"\u5201\u4e00\u78a7","revisions":[{"revid":17979,"parentid":6258,"user":"Nu3khoci3","timestamp":"2022-03-25T11:41:14Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"1188":{"pageid":1188,"ns":3828,"title":"\u8349\u7a3f:\u5201\u4e00\u78a7","revisions":[{"revid":17979,"parentid":6258,"user":"Nu3khoci3","timestamp":"2022-03-25T11:41:14Z","comment":""}]}}}}

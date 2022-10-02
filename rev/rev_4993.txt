@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"943":{"pageid":943,"ns":6,"title":"File:\u897f\u7f57\u66fc\u7248\u4e16\u754c\u5730\u56fe.png","revisions":[{"revid":4993,"parentid":4992,"user":"EnotswolgEnder","timestamp":"2021-07-15T04:58:19Z","comment":"EnotswolgEnder\u4e0a\u4f20[[File:\u897f\u7f57\u66fc\u7248\u4e16\u754c\u5730\u56fe.png]]\u7684\u65b0\u7248\u672c"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4993":{"revid":4993}}}}

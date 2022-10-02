@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"508":{"pageid":508,"ns":0,"title":"\u5e0c\u9876\u56fd\u5bb6\u5217\u8868","revisions":[{"revid":2694,"parentid":0,"user":"Nu3khoci3","timestamp":"2021-06-10T07:35:37Z","comment":"Nu3khoci3\u79fb\u52a8\u9875\u9762[[\u5e0c\u9876\u56fd\u5bb6\u5217\u8868]]\u81f3[[\u5e0c\u9876\u4e16\u754c\u7ebf\u56fd\u5bb6\u5217\u8868]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"2694":{"revid":2694}}}}

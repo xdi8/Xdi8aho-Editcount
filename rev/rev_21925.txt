@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3833":{"pageid":3833,"ns":8,"title":"MediaWiki:Licenses","revisions":[{"revid":21925,"parentid":0,"user":"\u7269\u7075","timestamp":"2022-07-12T04:05:14Z","comment":"\u5f15\u81ea [[wp:zh:MediaWiki:Licenses]]\uff0c\u6d4b\u8bd5"}]}}}}

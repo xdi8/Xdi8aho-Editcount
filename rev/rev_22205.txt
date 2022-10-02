@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1344":{"pageid":1344,"ns":2,"title":"User:Aslan Whiterock","revisions":[{"revid":22205,"parentid":21455,"minor":"","user":"Aslan Whiterock","timestamp":"2022-07-25T04:28:24Z","comment":""}]}}}}

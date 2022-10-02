@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"787":{"pageid":787,"ns":6,"title":"File:\u221e.png","revisions":[{"revid":4090,"parentid":0,"user":"Haruka","timestamp":"2021-06-27T15:21:30Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4090":{"revid":4090}}}}

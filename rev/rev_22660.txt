@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3943":{"pageid":3943,"ns":6,"title":"File:Kazakhstan.gif","revisions":[{"revid":22660,"parentid":0,"user":"KLEk2005","timestamp":"2022-08-20T17:03:42Z","comment":""}]}}}}

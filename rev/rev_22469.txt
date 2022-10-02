@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3328":{"pageid":3328,"ns":10,"title":"Template:Kliasium\u661f\u7cfb\u76f8\u5173","revisions":[{"revid":22469,"parentid":21971,"minor":"","user":"QWERTY 52 38","timestamp":"2022-08-13T15:23:22Z","comment":"// Edit via Wikiplus"}]}}}}

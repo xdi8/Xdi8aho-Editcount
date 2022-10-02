@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"943":{"pageid":943,"ns":6,"title":"File:\u897f\u7f57\u66fc\u7248\u4e16\u754c\u5730\u56fe.png","revisions":[{"revid":4956,"parentid":0,"user":"EnotswolgEnder","timestamp":"2021-07-14T13:49:23Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4956":{"revid":4956}}}}

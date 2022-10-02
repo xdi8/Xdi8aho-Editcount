@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"438":{"pageid":438,"ns":0,"title":"\u6cdb\u5e0c\u9876\u6587\u5316\u8054\u76df","revisions":[{"revid":21792,"parentid":20313,"minor":"","user":"\u7269Ling\u7684Bot","timestamp":"2022-07-05T11:07:16Z","comment":"/* \u6210\u5458 */\u6f9c\u6ca7\u6539\u4e3a\u903b\u5bdf, replaced: \u6f9c\u6ca7 \u2192 \u903b\u5bdf"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1746":{"pageid":1746,"ns":6,"title":"File:\u611f\u89c9\u5361\u67d0\u90fd\u6ca1\u8fd9\u4e48\u9b54\u6014.png","revisions":[{"revid":9692,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-28T09:35:47Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"9692":{"revid":9692}}}}

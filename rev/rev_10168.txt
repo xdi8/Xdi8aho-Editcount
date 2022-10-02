@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1428":{"pageid":1428,"ns":0,"title":"\u5706\u8d28\u56fd","revisions":[{"revid":10168,"parentid":10164,"user":"Zdwnssxdi8","timestamp":"2021-10-05T06:06:45Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"1428":{"pageid":1428,"ns":0,"title":"\u65b0\u5706\u8d28\u5730\u533a","revisions":[{"revid":10168,"parentid":10164,"user":"Zdwnssxdi8","timestamp":"2021-10-05T06:06:45Z","comment":""}]}}}}

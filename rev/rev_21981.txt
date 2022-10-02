@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3846":{"pageid":3846,"ns":6,"title":"File:Kliasium\u661f\u7cfb-\u5168.png","revisions":[{"revid":21981,"parentid":21980,"user":"QWERTY 52 38","timestamp":"2022-07-14T08:51:30Z","comment":"// Edit via Wikiplus"}]}}}}

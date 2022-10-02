@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2236":{"pageid":2236,"ns":6,"title":"File:\u857e\u8482\u7403.png","revisions":[{"revid":12517,"parentid":0,"user":"Q-2713447885","timestamp":"2021-11-14T11:02:32Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"12517":{"revid":12517}}}}

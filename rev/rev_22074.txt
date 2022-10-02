@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3859":{"pageid":3859,"ns":6,"title":"File:Stv1.png","revisions":[{"revid":22074,"parentid":0,"user":"Nalev Sislevich","timestamp":"2022-07-20T15:06:52Z","comment":""}]}}}}

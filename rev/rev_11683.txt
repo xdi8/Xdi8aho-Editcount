@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2122":{"pageid":2122,"ns":0,"title":"Qassaman","revisions":[{"revid":11683,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-10-29T13:45:53Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u8a93\u8a00]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"11683":{"revid":11683}}}}

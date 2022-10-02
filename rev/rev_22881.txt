@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3972":{"pageid":3972,"ns":6,"title":"File:Third England.jpg","revisions":[{"revid":22881,"parentid":0,"user":"KLEk2005","timestamp":"2022-09-11T07:40:29Z","comment":""}]}}}}

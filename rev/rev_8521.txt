@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1523":{"pageid":1523,"ns":0,"title":"\u8346\u54f2 (\u865a\u62df\u56fd)","revisions":[{"revid":8521,"parentid":8517,"user":"\u8346\u54f2","timestamp":"2021-09-08T14:21:51Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"8521":{"revid":8521}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"144":{"pageid":144,"ns":828,"title":"\u6a21\u5757:Test","revisions":[{"revid":368,"parentid":366,"user":"\u96e8\u97f3\u6d45\u590f","timestamp":"2021-02-08T14:18:05Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"368":{"revid":368}}}}

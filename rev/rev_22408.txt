@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3916":{"pageid":3916,"ns":6,"title":"File:Republic of Mejed.png","revisions":[{"revid":22408,"parentid":0,"user":"KLEk2005","timestamp":"2022-08-09T14:32:29Z","comment":"\u6885\u6770\u5fb7\u56fd\u7684\u56fd\u65d7"}]}}}}

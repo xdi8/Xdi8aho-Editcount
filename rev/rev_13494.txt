@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2138":{"pageid":2138,"ns":0,"title":"\u857e\u8482\u65af\u5766\u653f\u515a\u5217\u8868","revisions":[{"revid":13494,"parentid":12054,"minor":"","user":"Aslan Whiterock","timestamp":"2021-12-02T14:33:39Z","comment":"\u201c\u53cd\u6cd5\u897f\u65af\u201d\u4e0e\u201c\u53cd\u5361\u52d2\u5b81\u201d\u91cd\u590d"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"13494":{"revid":13494}}}}

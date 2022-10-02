@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1747":{"pageid":1747,"ns":6,"title":"File:Kalening2.0deyouhaotixing.png","revisions":[{"revid":9693,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-09-28T09:37:59Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"9693":{"revid":9693}}}}

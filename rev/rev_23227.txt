@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4047":{"pageid":4047,"ns":2,"title":"User:Morris92/Ruleofmysterybox","revisions":[{"revid":23227,"parentid":23226,"user":"Morris92","timestamp":"2022-10-01T03:54:30Z","comment":""}]}}}}

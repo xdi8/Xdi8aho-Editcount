@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3942":{"pageid":3942,"ns":6,"title":"File:Soviet Kazakh.jpg","revisions":[{"revid":22659,"parentid":0,"user":"KLEk2005","timestamp":"2022-08-20T17:02:55Z","comment":""}]}}}}

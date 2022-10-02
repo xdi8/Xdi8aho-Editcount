@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3009":{"pageid":3009,"ns":6,"title":"File:\u5e0c\u8054\u54c8\u8428\u514b2022.png","revisions":[{"revid":16728,"parentid":0,"user":"Q-2713447885","timestamp":"2022-02-08T08:54:45Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"16728":{"revid":16728}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1693":{"pageid":1693,"ns":0,"title":"\u6d1b\u6717\u897f\u8036","revisions":[{"revid":9373,"parentid":0,"user":"EnotswolgEnder","timestamp":"2021-09-20T13:16:32Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6d1b\u6717\u897f\u8036\u4eba\u6c11\u5171\u548c\u56fd]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"9373":{"revid":9373}}}}

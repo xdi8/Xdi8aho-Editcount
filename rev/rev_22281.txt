@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3886":{"pageid":3886,"ns":6,"title":"File:Stvd.png","revisions":[{"revid":22281,"parentid":0,"user":"Nalev Sislevich","timestamp":"2022-07-26T03:03:38Z","comment":""}]}}}}

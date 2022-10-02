@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3735":{"pageid":3735,"ns":6,"title":"File:LET-PDPL.png","revisions":[{"revid":21880,"parentid":21371,"minor":"","user":"Aslan Whiterock","timestamp":"2022-07-10T13:36:58Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:Flag-PDPL.png]]\u81f3[[File:LET-PDPL.png]]"}]}}}}

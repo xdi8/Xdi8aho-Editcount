@@ -6,12 +6,13 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 import json
 import os
+import threading
 from time import localtime
 
 
 packages.urllib3.disable_warnings(InsecureRequestWarning)
 __author__ = "QWERTY_52_38"
-__version__ = "0.4"
+__version__ = "0.5"
 rev_api = "https://wiki.xdi8.top/w/api.php?action=query&format=json&prop=revisions&revids="
 # revisions api
 folder = r"D:\python\xdi8\Xdi8aho-Editcount"  # this should be changed to your own directory
@@ -27,14 +28,18 @@ namespace_loca = {0: 0, 1: 1, 3: 1, 4: 2, 5: 1, 10: 3,
 
 @retry(stop_max_attempt_number=10)
 def get_page(url: str):
-    return get(url, timeout=5, verify=False).text
+    return get(url, timeout=15, verify=False).text
 
 
 def get_revs(start, end):
     for i in range(start, end + 1):
-        with open(os.path.join(os.path.join(folder, "rev"), f"rev_{i}.txt"), "w") as fh:
-            fh.write(get_page(rev_api + str(i)))
-        print(i)
+        pth = os.path.join(os.path.join(folder, "rev"), f"rev_{i}.txt")
+        if os.path.isfile(pth):
+            continue
+        rev = get_page(rev_api + str(i))
+        with open(pth, "w") as fh:
+            fh.write(rev)
+    print(f"{start} to {end} finished!")
 
 
 def get_edit_score_dic(start: int, end: int) -> dict:
@@ -86,6 +91,15 @@ def make_workbook(dic: dict, filename=f"xdi8aho-wiki-useredit-{localtime().tm_ye
 
 
 if __name__ == "__main__":
-    get_revs(21607, 21619)
-    make_workbook(get_edit_score_dic(1, 21619))
+    '''
+    thread_list = []
+    for i in range(8):
+        t = threading.Thread(target=get_revs, args=(2913*i, 2913+2913*i))
+        t.start()
+        thread_list.append(t)
+    for j in thread_list:
+        j.join()
+    '''
+    get_revs(23305, 23305)
+    make_workbook(get_edit_score_dic(1, 23305))
     print("Finished!")

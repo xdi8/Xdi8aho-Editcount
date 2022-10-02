@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3841":{"pageid":3841,"ns":8,"title":"MediaWiki:Conversiontable/zh-sg","revisions":[{"revid":21960,"parentid":21959,"user":"\u7269\u7075","timestamp":"2022-07-14T07:59:27Z","comment":"/* \u7279\u6b8a */"}]}}}}

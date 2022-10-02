@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3070":{"pageid":3070,"ns":0,"title":"\u7535\u5f1f\u8054\u76df","revisions":[{"revid":20309,"parentid":19114,"user":"LEHH\u5165f2H","timestamp":"2022-05-03T10:20:59Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"20309":{"revid":20309}}}}

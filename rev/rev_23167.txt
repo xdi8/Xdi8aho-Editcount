@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"999":{"pageid":999,"ns":10,"title":"Template:MCBBS Wiki","revisions":[{"revid":23167,"parentid":18564,"user":"\u7269\u7075","timestamp":"2022-09-29T15:37:13Z","comment":""}]}}}}

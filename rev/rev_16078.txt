@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2920":{"pageid":2920,"ns":0,"title":"\u6211\u7684\u5c0f\u5c0f\u5fc3\u613f","revisions":[{"revid":16078,"parentid":0,"user":"\u8346\u54f2","timestamp":"2022-01-24T13:53:30Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6587\u5e93/\u6587\u7ae0/\u6211\u7684\u5c0f\u5c0f\u5fc3\u613f]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"16078":{"revid":16078}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1421":{"pageid":1421,"ns":0,"title":"\u751f\u8349","revisions":[{"revid":7874,"parentid":0,"user":"\u8346\u54f2","timestamp":"2021-08-29T04:18:36Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u8349 (\u5e0c\u9876\u8bed)]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"7874":{"revid":7874}}}}

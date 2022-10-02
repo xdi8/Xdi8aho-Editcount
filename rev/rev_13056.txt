@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2350":{"pageid":2350,"ns":0,"title":"\u81f4\u8fdc","revisions":[{"revid":13056,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-11-23T04:40:50Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u81f4\u8fdc\u5171\u548c\u56fd]]"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2350":{"pageid":2350,"ns":0,"title":"\u81f4\u8fdc (\u6d88\u6b67\u4e49)","revisions":[{"revid":13056,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-11-23T04:40:50Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u81f4\u8fdc\u5171\u548c\u56fd]]"}]}}}}

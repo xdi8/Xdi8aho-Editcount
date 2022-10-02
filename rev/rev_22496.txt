@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3922":{"pageid":3922,"ns":6,"title":"File:Lusong.jpg","revisions":[{"revid":22496,"parentid":0,"user":"\u4e9a\u5386\u5c71\u5927\u00b7\u4f0a\u4e07","timestamp":"2022-08-16T11:58:33Z","comment":""}]}}}}

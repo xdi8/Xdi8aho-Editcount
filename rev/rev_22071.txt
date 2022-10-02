@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3858":{"pageid":3858,"ns":6,"title":"File:Patch-RUS-ICH.jpg","revisions":[{"revid":22071,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-07-20T13:51:24Z","comment":""}]}}}}

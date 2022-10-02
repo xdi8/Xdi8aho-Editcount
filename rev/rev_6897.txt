@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1292":{"pageid":1292,"ns":0,"title":"\u5e0c\u9802\u81ea\u7531\u4e3b\u7fa9\u5171\u548c\u570b\u96f7\u59c6","revisions":[{"revid":6897,"parentid":0,"user":"Re-pasako","timestamp":"2021-08-17T14:28:36Z","comment":"\u65e5\u51fa\u5171\u548c\u570b\u5b98\u65b9\u8cec\u865f\u79fb\u52a8\u9875\u9762[[\u5e0c\u9802\u81ea\u7531\u4e3b\u7fa9\u5171\u548c\u570b\u96f7\u59c6]]\u81f3[[\u5e0c\u9802\u81ea\u7531\u4e3b\u7fa9\u5171\u548c\u570b\u806f\u76df]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"6897":{"revid":6897}}}}

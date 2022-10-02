@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3791":{"pageid":3791,"ns":6,"title":"File:LET-CPL.png","revisions":[{"revid":21721,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-07-04T01:28:24Z","comment":""}]}}}}

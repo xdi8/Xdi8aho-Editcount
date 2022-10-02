@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2439":{"pageid":2439,"ns":0,"title":"\u6587\u5e93/\u6587\u4ef6/\u65e5\u51fa-\u62c9\u4e01\u4e92\u4e0d\u4fb5\u72af\u6761\u7ea6","revisions":[{"revid":13575,"parentid":13574,"user":"Re-pasako","timestamp":"2021-12-04T01:36:02Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2439":{"pageid":2439,"ns":0,"title":"\u65e5\u51fa\u2013\u62c9\u4e01\u4e92\u4e0d\u4fb5\u72af\u6761\u7ea6","revisions":[{"revid":13575,"parentid":13574,"user":"Re-pasako","timestamp":"2021-12-04T01:36:02Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3966":{"pageid":3966,"ns":6,"title":"File:People's Army of Mejed.jpg","revisions":[{"revid":22825,"parentid":0,"user":"KLEk2005","timestamp":"2022-09-07T09:30:10Z","comment":""}]}}}}

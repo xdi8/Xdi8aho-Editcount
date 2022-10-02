@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1678":{"pageid":1678,"ns":0,"title":"\u857e\u8482\u65af\u5766\u519b\u4e8b","revisions":[{"revid":11617,"parentid":9917,"minor":"","user":"\u7269Ling\u7684Bot","timestamp":"2021-10-29T08:03:16Z","comment":"/* \u6ce8\u91ca */\u6dfb\u52a0\u5e0c\u9876\u4e16\u754c\u7ebf\u5927\u5bb6\u65cf\u6a21\u677f\uff0c\u5982\u6709\u8bef\u8bf7\u5220\u9664\uff0cbug \u8bf7\u8054\u7cfb\u7269\u7075"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"11617":{"revid":11617}}}}

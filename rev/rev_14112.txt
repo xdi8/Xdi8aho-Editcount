@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1746":{"pageid":1746,"ns":6,"title":"File:\u611f\u89c9\u5361\u67d0\u90fd\u6ca1\u8fd9\u4e48\u9b54\u6014.png","revisions":[{"revid":14112,"parentid":9692,"minor":"","user":"Aslan Whiterock","timestamp":"2021-12-19T08:50:45Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[File:Antiflerovias-2.png]]\u81f3[[File:\u611f\u89c9\u5361\u67d0\u90fd\u6ca1\u8fd9\u4e48\u9b54\u6014.png]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"14112":{"revid":14112}}}}

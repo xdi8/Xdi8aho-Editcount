@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1844":{"pageid":1844,"ns":6,"title":"File:Patch-1.png","revisions":[{"revid":11398,"parentid":10278,"user":"Aslan Whiterock","timestamp":"2021-10-27T14:09:10Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Patch-1.png]]\u7684\u65b0\u7248\u672c"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"11398":{"revid":11398}}}}

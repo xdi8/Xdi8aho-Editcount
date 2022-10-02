@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3918":{"pageid":3918,"ns":6,"title":"File:\u6885\u6770\u5fb7\u56fd\u7684\u884c\u653f\u533a\u5212.png","revisions":[{"revid":22432,"parentid":22430,"user":"KLEk2005","timestamp":"2022-08-10T06:06:11Z","comment":"KLEk2005\u4e0a\u4f20[[File:\u6885\u6770\u5fb7\u56fd\u7684\u884c\u653f\u533a\u5212.png]]\u7684\u65b0\u7248\u672c"}]}}}}

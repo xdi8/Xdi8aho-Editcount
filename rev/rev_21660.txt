@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1184":{"pageid":1184,"ns":0,"title":"\u015cidina lingvo","revisions":[{"revid":21660,"parentid":21206,"user":"\u7269\u7075","timestamp":"2022-06-30T17:02:13Z","comment":""}]}}}}

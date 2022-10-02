@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3832":{"pageid":3832,"ns":2,"title":"User:YSPKPQZ","revisions":[{"revid":21920,"parentid":21919,"user":"YSPKPQZ","timestamp":"2022-07-12T03:55:30Z","comment":""}]}}}}

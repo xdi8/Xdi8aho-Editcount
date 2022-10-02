@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3510":{"pageid":3510,"ns":3828,"title":"\u8349\u7a3f:\u4e1c\u5357\u857e\u8482\u65af\u5766\u5dde","revisions":[{"revid":19947,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-04-24T05:03:18Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[\u8349\u7a3f:\u4e1c\u5357\u857e\u8482\u65af\u5766\u5dde]]\u81f3[[User:Aslan Whiterock/\u6c99\u76d2/\u857e\u8482\u65af\u57661978\u5e74\u5baa\u6cd5]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"19947":{"revid":19947}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1805":{"pageid":1805,"ns":0,"title":"\u7ea6\u745f\u592b\u00b7\u65af\u5927\u6797","revisions":[{"revid":10060,"parentid":0,"user":"Q-2713447885","timestamp":"2021-10-01T11:08:51Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c\u94fe\u63a5\uff1abaike.sogou.com/v4658409.htm\u201d\u7684\u65b0\u9875\u9762"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"10060":{"revid":10060}}}}

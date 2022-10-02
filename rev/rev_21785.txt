@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1245":{"pageid":1245,"ns":0,"title":"\u6708\u7403","revisions":[{"revid":21785,"parentid":18088,"minor":"","user":"\u7269Ling\u7684Bot","timestamp":"2022-07-05T11:06:38Z","comment":"\u6f9c\u6ca7\u6539\u4e3a\u903b\u5bdf, replaced: \u6f9c\u6ca7 \u2192 \u903b\u5bdf"}]}}}}

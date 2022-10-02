@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2124":{"pageid":2124,"ns":0,"title":"\u8a93\u8a00","revisions":[{"revid":18707,"parentid":17313,"minor":"","user":"Aslan Whiterock","timestamp":"2022-03-30T14:45:24Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2124":{"pageid":2124,"ns":2,"title":"User:Aslan Whiterock/\u6c99\u76d2/\u857e\u8482\u65af\u5766\u56fd\u9632\u519b","revisions":[{"revid":18707,"parentid":17313,"minor":"","user":"Aslan Whiterock","timestamp":"2022-03-30T14:45:24Z","comment":""}]}}}}

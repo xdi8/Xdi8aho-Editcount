@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"338":{"pageid":338,"ns":8,"title":"MediaWiki:Conversiontable/zh-hant","revisions":[{"revid":21666,"parentid":1759,"user":"\u7269\u7075","timestamp":"2022-07-02T00:12:35Z","comment":""}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1952":{"pageid":1952,"ns":0,"title":"LTL","revisions":[{"revid":18239,"parentid":11751,"user":"Nu3khoci3","timestamp":"2022-03-26T05:36:14Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"18239":{"revid":18239}}}}

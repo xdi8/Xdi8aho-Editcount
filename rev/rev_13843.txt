@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2428":{"pageid":2428,"ns":0,"title":"\u7c73\u5c14\u5e15\u6c11\u4e3b\u5171\u548c\u56fd","revisions":[{"revid":13843,"parentid":13826,"user":"XiaoPa114514","timestamp":"2021-12-07T13:18:59Z","comment":"/* \u56fd\u5bb6\u8c61\u5f81 */"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"13843":{"revid":13843}}}}

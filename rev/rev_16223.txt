@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2946":{"pageid":2946,"ns":10,"title":"Template:\u4e16\u754c\u7ebf\u51bb\u7ed3\u58f0\u660e","revisions":[{"revid":16223,"parentid":16222,"user":"FrankCathar","timestamp":"2022-01-26T08:52:26Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2946":{"pageid":2946,"ns":0,"title":"Gimel Tone","revisions":[{"revid":16223,"parentid":16222,"user":"FrankCathar","timestamp":"2022-01-26T08:52:26Z","comment":""}]}}}}

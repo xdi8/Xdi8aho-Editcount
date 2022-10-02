@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3936":{"pageid":3936,"ns":6,"title":"File:Klekta.jpg","revisions":[{"revid":22612,"parentid":0,"user":"KLEk2005","timestamp":"2022-08-19T10:05:35Z","comment":""}]}}}}

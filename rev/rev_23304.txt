@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4061":{"pageid":4061,"ns":14,"title":"Category:\u6280\u672f\u6027\u6a21\u677f","revisions":[{"revid":23304,"parentid":0,"user":"QWERTY 52 38","timestamp":"2022-10-02T02:05:42Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c{{Catnav|\u7d22\u5f15|\u6a21\u677f}} [[Category:\u6a21\u677f]]\u201d\u7684\u65b0\u9875\u9762"}]}}}}

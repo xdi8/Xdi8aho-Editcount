@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3270":{"pageid":3270,"ns":6,"title":"File:\u6f9c\u6ca7\u6c11\u4e3b\u5171\u548c\u56fd\u56fd\u5fbd.png","revisions":[{"revid":18370,"parentid":0,"user":"\u6f9c\u6ca7","timestamp":"2022-03-26T06:36:28Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3270":{"pageid":3270,"ns":6,"title":"File:\u903b\u5bdf\u6c11\u4e3b\u5171\u548c\u56fd\u56fd\u5fbd.png","revisions":[{"revid":18370,"parentid":0,"user":"\u6f9c\u6ca7","timestamp":"2022-03-26T06:36:28Z","comment":""}]}}}}

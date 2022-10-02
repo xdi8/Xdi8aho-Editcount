@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3288":{"pageid":3288,"ns":0,"title":"\u5e0c\u9876\u5171\u548c\u56fd\uff08DTL\uff09","revisions":[{"revid":18475,"parentid":18474,"user":"FrankCathar","timestamp":"2022-03-27T04:48:23Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3288":{"pageid":3288,"ns":0,"title":"\u5e0c\u9876\u5171\u548c\u56fd (DTL)","revisions":[{"revid":18475,"parentid":18474,"user":"FrankCathar","timestamp":"2022-03-27T04:48:23Z","comment":""}]}}}}

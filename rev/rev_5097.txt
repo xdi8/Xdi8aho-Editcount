@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"958":{"pageid":958,"ns":6,"title":"File:AmBird.png","revisions":[{"revid":5097,"parentid":0,"user":"Haruka","timestamp":"2021-07-20T13:15:52Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"5097":{"revid":5097}}}}

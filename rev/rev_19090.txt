@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3330":{"pageid":3330,"ns":2,"title":"User:LEHH\u5165f2H","revisions":[{"revid":19090,"parentid":19067,"user":"LEHH\u5165f2H","timestamp":"2022-04-10T06:32:06Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"19090":{"revid":19090}}}}

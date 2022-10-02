@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1827":{"pageid":1827,"ns":6,"title":"File:Flag1.png","revisions":[{"revid":10183,"parentid":0,"user":"Nalev Sislevich","timestamp":"2021-10-05T13:20:24Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"10183":{"revid":10183}}}}

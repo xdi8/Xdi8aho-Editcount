@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1673":{"pageid":1673,"ns":0,"title":"Lettistan","revisions":[{"revid":16646,"parentid":13813,"minor":"","user":"Aslan Whiterock","timestamp":"2022-02-06T07:24:36Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Lettistani Republic]]\u66f4\u6539\u4e3a[[\u857e\u8482\u65af\u5766\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"16646":{"revid":16646}}}}

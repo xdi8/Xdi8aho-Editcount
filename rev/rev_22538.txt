@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"284":{"pageid":284,"ns":0,"title":"\u5317\u82e5\u570b\u5354","revisions":[{"revid":22538,"parentid":13363,"minor":"","user":"Honoka55","timestamp":"2022-08-18T15:29:35Z","comment":"/* top */\u8bcd\u5178\u624d\u7528\u8bcd\u6761\uff0c\u767e\u79d1\u8bf7\u8bf4\u6761\u76ee\uff08"}]}}}}

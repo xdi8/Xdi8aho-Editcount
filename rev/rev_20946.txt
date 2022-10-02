@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3682":{"pageid":3682,"ns":0,"title":"\u5e0c\u97f3\u8bed","revisions":[{"revid":20946,"parentid":20943,"user":"Rachel1211","timestamp":"2022-05-25T11:35:37Z","comment":"\u5df2\u79fb\u9664\u81f3[[\u751f\u8349:\u5e0c\u97f3\u8bed]]\u7684\u91cd\u5b9a\u5411"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"20946":{"revid":20946}}}}

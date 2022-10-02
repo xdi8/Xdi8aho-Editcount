@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3645":{"pageid":3645,"ns":3824,"title":"\u751f\u8349:XTL \uff08\u6d88\u6b67\u4e49\uff09","revisions":[{"revid":21330,"parentid":20690,"minor":"","user":"Aslan Whiterock","timestamp":"2022-06-13T09:38:01Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[XTL (\u6d88\u6b67\u4e49)]]\u66f4\u6539\u4e3a[[\u5403\u5361\u52d2\u5b81]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"21330":{"revid":21330}}}}

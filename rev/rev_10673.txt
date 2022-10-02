@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1952":{"pageid":1952,"ns":0,"title":"LTL","revisions":[{"revid":10673,"parentid":0,"user":"Aslan Whiterock","timestamp":"2021-10-12T13:58:54Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u857e\u8482\u65af\u5766\u4e16\u754c\u7ebf]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"10673":{"revid":10673}}}}

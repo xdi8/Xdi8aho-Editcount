@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"341":{"pageid":341,"ns":8,"title":"MediaWiki:Conversiontable/zh-tw","revisions":[{"revid":1761,"parentid":1586,"user":"\u7269\u7075","timestamp":"2021-05-22T00:46:27Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"1761":{"revid":1761}}}}

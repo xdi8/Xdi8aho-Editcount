@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"28":{"pageid":28,"ns":0,"title":"\u5e0c\u9876\u5b57\u6bcd","revisions":[{"revid":22598,"parentid":22597,"user":"\u8346\u54f2","timestamp":"2022-08-19T02:29:32Z","comment":"/* \u5bf9\u5e94Minecraft\u7269\u54c1 */"}]}}}}

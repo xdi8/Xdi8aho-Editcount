@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3817":{"pageid":3817,"ns":6,"title":"File:LET-MCPL.png","revisions":[{"revid":21879,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-07-10T13:36:22Z","comment":""}]}}}}

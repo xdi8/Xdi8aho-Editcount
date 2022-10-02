@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1640":{"pageid":1640,"ns":2,"title":"User:Re-pasako","revisions":[{"revid":22003,"parentid":14382,"user":"Re-pasako","timestamp":"2022-07-15T08:03:25Z","comment":"\u9875\u9762\u5185\u5bb9\u88ab\u66ff\u6362\u4e3a\u201c {{WPH|AAE-A}}\u201d"}]}}}}

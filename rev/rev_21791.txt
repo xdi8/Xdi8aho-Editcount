@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1829":{"pageid":1829,"ns":0,"title":"\u65af\u5854\u592b\u793e\u4f1a\u4e3b\u4e49\u8054\u90a6\u5171\u548c\u56fd","revisions":[{"revid":21791,"parentid":20487,"minor":"","user":"\u7269Ling\u7684Bot","timestamp":"2022-07-05T11:07:10Z","comment":"\u6f9c\u6ca7\u6539\u4e3a\u903b\u5bdf, replaced: \u6f9c\u6ca7 \u2192 \u903b\u5bdf"}]}}}}

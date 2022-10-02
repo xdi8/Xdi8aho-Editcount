@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"341":{"pageid":341,"ns":8,"title":"MediaWiki:Conversiontable/zh-tw","revisions":[{"revid":1580,"parentid":1579,"minor":"","user":"\u7269\u7075","timestamp":"2021-05-21T11:48:43Z","comment":"\u7269\u7075\u79fb\u52a8\u9875\u9762[[MediaWiki:Conversiontable/zh-hant-tw]]\u81f3[[MediaWiki:Conversiontable/zh-tw]]\uff0c\u4e0d\u7559\u91cd\u5b9a\u5411\uff1a\u9519\u4f4d"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"1580":{"revid":1580}}}}

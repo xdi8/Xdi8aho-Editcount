@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1222":{"pageid":1222,"ns":14,"title":"Category:\u5e0c\u9876\u8bed\u884d\u751f\u8bed\u8a00","revisions":[{"revid":17900,"parentid":9725,"user":"\u7269\u7075","timestamp":"2022-03-25T11:15:35Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Category:\u5e0c\u9876\u65b9\u8a00]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"17900":{"revid":17900}}}}

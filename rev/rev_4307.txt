@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"819":{"pageid":819,"ns":6,"title":"File:Esv\u56fd\u5fbd.png","revisions":[{"revid":4307,"parentid":0,"user":"Kiasit","timestamp":"2021-07-02T13:26:01Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4307":{"revid":4307}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3785":{"pageid":3785,"ns":6,"title":"File:\u9707\u52a8\u8868\u60c53.jpg","revisions":[{"revid":21699,"parentid":0,"user":"Aslan Whiterock","timestamp":"2022-07-02T12:09:24Z","comment":""}]}}}}

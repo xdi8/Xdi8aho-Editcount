@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3779":{"pageid":3779,"ns":0,"title":"\u5188\u6bd4\u4e9a","revisions":[{"revid":21665,"parentid":0,"user":"\u9e4f\u9e4f\u55b5","timestamp":"2022-07-01T12:05:18Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u5188\u6bd4\u4e9a\u5171\u548c\u56fd]]"}]}}}}

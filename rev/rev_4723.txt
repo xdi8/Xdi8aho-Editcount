@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"11":{"pageid":11,"ns":0,"title":"\u6587\u5e93/\u6587\u7ae0/\u8424\u706b\u866b","revisions":[{"revid":4723,"parentid":2114,"user":"EnotswolgEnder","timestamp":"2021-07-07T10:35:32Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"11":{"pageid":11,"ns":0,"title":"\u8424\u706b\u866b","revisions":[{"revid":4723,"parentid":2114,"user":"EnotswolgEnder","timestamp":"2021-07-07T10:35:32Z","comment":""}]}}}}

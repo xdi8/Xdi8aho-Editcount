@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3135":{"pageid":3135,"ns":0,"title":"\u89c2\u536f\u97f3","revisions":[{"revid":20500,"parentid":17413,"minor":"","user":"Aslan Whiterock","timestamp":"2022-05-11T05:09:16Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u90ce\u4e48 (\u6897)]]\u66f4\u6539\u4e3a[[\u8349\u7a3f:\u89c2\u536f\u97f3]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"20500":{"revid":20500}}}}

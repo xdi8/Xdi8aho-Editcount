@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3097":{"pageid":3097,"ns":3824,"title":"\u751f\u8349:XTL \uff08\u6d88\u6b67\u4e49\uff09","revisions":[{"revid":19591,"parentid":19590,"user":"\u9ec4\u96c0\u98de\u4e8c\u4ee3\u5e0c\u9876xdi7","timestamp":"2022-04-18T13:08:34Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"19591":{"revid":19591}}}}

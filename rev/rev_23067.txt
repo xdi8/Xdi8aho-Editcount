@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"832":{"pageid":832,"ns":2,"title":"User:\u9057\u8ff9iseki/\u9057\u8ff9\u7684\u6c99\u76d2","revisions":[{"revid":23067,"parentid":7382,"minor":"","user":"\u9057\u8ff9iseki","timestamp":"2022-09-25T09:31:53Z","comment":""}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3330":{"pageid":3330,"ns":2,"title":"User:LEHH\u5165f2H","revisions":[{"revid":20579,"parentid":20577,"minor":"","user":"\u8346\u54f2\u7684\u6536\u85cf\u5939","timestamp":"2022-05-14T05:12:14Z","comment":"\u9875\u9762\u5185\u5bb9\u88ab\u66ff\u6362\u4e3a\u201c\u518d\u4e71\u6539\u6211\u5e0c\u8346\u56fd\u7684\u8bcd\u6761\u6211\u628a\u4f60\u5bb0\u4e86\u201d"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"20579":{"revid":20579}}}}

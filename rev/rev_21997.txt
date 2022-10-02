@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2594":{"pageid":2594,"ns":8,"title":"MediaWiki:Mobile.js","revisions":[{"revid":21997,"parentid":21996,"user":"\u7269\u7075","timestamp":"2022-07-15T01:17:46Z","comment":""}]}}}}
