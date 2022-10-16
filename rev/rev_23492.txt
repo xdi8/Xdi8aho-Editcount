@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"999":{"pageid":999,"ns":10,"title":"Template:MCBBS Wiki","revisions":[{"revid":23492,"parentid":23472,"user":"QWERTY 52 38","timestamp":"2022-10-06T02:13:43Z","comment":"\u8bf7\u4f7f\u7528Template:\u5176\u4ed6\u534f\u8bae\uff0c\u800c\u4e0d\u662f\u5c06mcbbs wiki\u6269\u5927\u5316// Edit via Wikiplus"}]}}}}

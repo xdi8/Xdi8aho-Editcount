@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4075":{"pageid":4075,"ns":2,"title":"User:Morris92/\u5047\u94fe/Styles.css","revisions":[{"revid":23466,"parentid":23460,"user":"Morris92","timestamp":"2022-10-05T07:06:15Z","comment":"\u6e05\u7a7a\u5168\u90e8\u5185\u5bb9"}]}}}}

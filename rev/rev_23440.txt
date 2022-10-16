@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"939":{"pageid":939,"ns":0,"title":"\u5e0c\u5415\u5b57\u6bcd","revisions":[{"revid":23440,"parentid":23415,"minor":"","user":"\u9057\u8ff9iseki","timestamp":"2022-10-04T04:17:57Z","comment":"\u6211\u7684\u5929\uff0c\u4e3a\u4ec0\u4e48\u4e0d\u662fModifier Latin Small Letter S"}]}}}}

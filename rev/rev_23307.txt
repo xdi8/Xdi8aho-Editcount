@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3675":{"pageid":3675,"ns":14,"title":"Category:Kof-N","revisions":[{"revid":23307,"parentid":20874,"user":"QWERTY 52 38","timestamp":"2022-10-02T02:24:05Z","comment":"// Edit via Wikiplus"}]}}}}

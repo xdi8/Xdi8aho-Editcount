@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4062":{"pageid":4062,"ns":10,"title":"Template:IUC2CE","revisions":[{"revid":23312,"parentid":0,"user":"QWERTY 52 38","timestamp":"2022-10-02T02:44:10Z","comment":"\u5c06[[Template:IUC2CE]]\u91cd\u5b9a\u5411\u81f3[[Template:\u661f\u9645\u7edf\u4e00\u5386\u8f6c\u516c\u5386]] // Wikiplus"}]}}}}

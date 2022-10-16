@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4074":{"pageid":4074,"ns":6,"title":"File:LX18.png","revisions":[{"revid":23453,"parentid":0,"user":"7oH 1fT","timestamp":"2022-10-04T13:23:17Z","comment":""}]}}}}
