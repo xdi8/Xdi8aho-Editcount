@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3447":{"pageid":3447,"ns":3,"title":"User talk:QWERTY 52 38","revisions":[{"revid":24340,"parentid":21048,"user":"KLEk2005","timestamp":"2022-10-30T01:05:51Z","comment":"/* \u6700\u8fd1\u90a3\u4e2aAfd\u662f\u4e2a\u4ec0\u4e48\u610f\u601d */ \u65b0\u7ae0\u8282"}]}}}}

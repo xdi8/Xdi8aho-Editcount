@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2580":{"pageid":2580,"ns":6,"title":"File:KSRC1.png","revisions":[{"revid":24045,"parentid":14488,"user":"\u7269\u7075","timestamp":"2022-10-20T14:33:33Z","comment":""}]}}}}

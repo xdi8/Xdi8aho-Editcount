@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4244":{"pageid":4244,"ns":10,"title":"Template:\u6587\u4ef6\u7248\u6743/CC BY-NC-SA","revisions":[{"revid":24139,"parentid":24138,"user":"\u7269\u7075","timestamp":"2022-10-22T06:29:53Z","comment":""}]}}}}

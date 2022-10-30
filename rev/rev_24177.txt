@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1796":{"pageid":1796,"ns":4,"title":"\u5e0c\u9876\u7ef4\u57fa:AutoWikiBrowser/CheckPage","revisions":[{"revid":24177,"parentid":22528,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-23T06:17:03Z","comment":"// Edit via Wikiplus"}]}}}}

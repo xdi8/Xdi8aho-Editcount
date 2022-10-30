@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2938":{"pageid":2938,"ns":0,"title":"Vulco\u661f","revisions":[{"revid":24326,"parentid":18049,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-30T00:26:26Z","comment":"// Edit via Wikiplus"}]}}}}

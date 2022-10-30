@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4250":{"pageid":4250,"ns":6,"title":"File:PicsArt 07-15-12.29.28.png","revisions":[{"revid":24154,"parentid":0,"user":"Morris92","timestamp":"2022-10-22T13:26:19Z","comment":"\u4e3a\u6587\u4ef6\u4e0a\u4f20\u8005\u6240\u539f\u521b\u3002"}]}}}}

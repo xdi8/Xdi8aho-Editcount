@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2578":{"pageid":2578,"ns":6,"title":"File:KSR.jpg","revisions":[{"revid":24044,"parentid":14456,"user":"\u7269\u7075","timestamp":"2022-10-20T14:31:17Z","comment":""}]}}}}

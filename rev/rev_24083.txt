@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4221":{"pageid":4221,"ns":6,"title":"File:511-1.jpg","revisions":[{"revid":24083,"parentid":0,"user":"Nu3khoci3","timestamp":"2022-10-21T12:59:10Z","comment":""}]}}}}

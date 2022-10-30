@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4199":{"pageid":4199,"ns":6,"title":"File:106.jpg","revisions":[{"revid":24057,"parentid":0,"user":"Nu3khoci3","timestamp":"2022-10-21T12:41:16Z","comment":""}]}}}}
