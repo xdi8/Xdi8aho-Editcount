@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"33":{"pageid":33,"ns":6,"title":"File:Noart.jpg","revisions":[{"revid":24401,"parentid":76,"user":"\u96e8\u97f3\u6d45\u590f","timestamp":"2022-10-30T13:19:42Z","comment":"\u96e8\u97f3\u6d45\u590f\u4e0a\u4f20[[File:Noart.jpg]]\u7684\u65b0\u7248\u672c"}]}}}}

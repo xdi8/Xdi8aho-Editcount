@@ -100,6 +100,6 @@ if __name__ == "__main__":
     for j in thread_list:
         j.join()
     '''
-    get_revs(23957, 24362)
-    make_workbook(get_edit_score_dic(1, 24362))
+    get_revs(24484, 24487)
+    make_workbook(get_edit_score_dic(1, 24487))
     print("Finished!")

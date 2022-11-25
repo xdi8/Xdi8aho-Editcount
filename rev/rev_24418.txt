@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"470":{"pageid":470,"ns":2,"title":"User:DGCK81LNN","revisions":[{"revid":24418,"parentid":23860,"user":"DGCK81LNN","timestamp":"2022-11-01T10:33:17Z","comment":"major update"}]}}}}
