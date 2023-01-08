@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3684":{"pageid":3684,"ns":2,"title":"User:KLEk2005","revisions":[{"revid":25649,"parentid":25602,"user":"KLEk2005","timestamp":"2022-12-24T00:58:10Z","comment":""}]}}}}

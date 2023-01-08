@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4343":{"pageid":4343,"ns":6,"title":"File:Flag of the Kazakh Khanate.svg.png","revisions":[{"revid":24696,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-12T00:53:18Z","comment":""}]}}}}

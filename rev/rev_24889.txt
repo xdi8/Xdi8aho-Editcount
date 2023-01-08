@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4374":{"pageid":4374,"ns":2,"title":"User:Supremey777","revisions":[{"revid":24889,"parentid":24879,"user":"Supremey777","timestamp":"2022-11-13T20:52:47Z","comment":""}]}}}}

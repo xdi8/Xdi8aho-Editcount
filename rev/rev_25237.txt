@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4417":{"pageid":4417,"ns":6,"title":"File:Shaojingxdi8.jpg","revisions":[{"revid":25237,"parentid":0,"user":"NLSGoogologist","timestamp":"2022-11-28T14:35:54Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4553":{"pageid":4553,"ns":8,"title":"MediaWiki:Vector.js","revisions":[{"revid":25652,"parentid":25650,"user":"\u96e8\u97f3\u6d45\u590f","timestamp":"2022-12-24T09:12:10Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1577":{"pageid":1577,"ns":6,"title":"File:LET-Minister-MoD.png","revisions":[{"revid":24664,"parentid":21672,"user":"Aslan Whiterock","timestamp":"2022-11-11T02:49:17Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:LET-Minister-MoD.png]]\u7684\u65b0\u7248\u672c"}]}}}}

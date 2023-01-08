@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3734":{"pageid":3734,"ns":6,"title":"File:Emblem-WPL.png","revisions":[{"revid":24666,"parentid":21370,"user":"Aslan Whiterock","timestamp":"2022-11-11T02:49:31Z","comment":"Aslan Whiterock\u4e0a\u4f20[[File:Emblem-WPL.png]]\u7684\u65b0\u7248\u672c"}]}}}}

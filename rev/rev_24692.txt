@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2745":{"pageid":2745,"ns":0,"title":"Kizunaai","revisions":[{"revid":24692,"parentid":24554,"minor":"","user":"Aslan Whiterock","timestamp":"2022-11-11T11:39:34Z","comment":""}]}}}}

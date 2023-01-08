@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2407":{"pageid":2407,"ns":0,"title":"\u82cf\u7ef4\u57c3\u793e\u4f1a\u4e3b\u4e49\u5171\u548c\u56fd\u8054\u76df","revisions":[{"revid":25205,"parentid":19563,"user":"KLEk2005","timestamp":"2022-11-26T00:41:45Z","comment":"\u66f4\u6539\u4e86\u54c8\u8428\u514b\u65af\u5766\u76f8\u5173\u5185\u5bb9\uff08\u788e\u4e00\u5730\u662f\u5427\uff09"}]}}}}

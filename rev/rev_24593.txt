@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4038":{"pageid":4038,"ns":2,"title":"User:Morris92/Infobox","revisions":[{"revid":24593,"parentid":23527,"user":"Morris92","timestamp":"2022-11-09T12:24:47Z","comment":""}]}}}}

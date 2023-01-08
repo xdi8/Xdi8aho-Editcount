@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4340":{"pageid":4340,"ns":6,"title":"File:Warn about mejed.jpg","revisions":[{"revid":24676,"parentid":24675,"minor":"","user":"KLEk2005","timestamp":"2022-11-11T05:18:31Z","comment":"KLEk2005\u79fb\u52a8\u9875\u9762[[File:Screenshot 20221111 131534.jpg]]\u81f3[[File:Warn about mejed.jpg]]"}]}}}}

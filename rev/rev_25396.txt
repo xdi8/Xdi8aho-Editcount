@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1727":{"pageid":1727,"ns":14,"title":"Category:\u4f0a\u6717\u4eba","revisions":[{"revid":25396,"parentid":25395,"minor":"","user":"Aslan Whiterock","timestamp":"2022-12-10T12:42:28Z","comment":"Aslan Whiterock\u79fb\u52a8\u9875\u9762[[Category:\u857e\u8482\u65af\u5766\u4eba]]\u81f3[[Category:\u4f0a\u6717\u4eba]]"}]}}}}

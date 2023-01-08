@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4427":{"pageid":4427,"ns":6,"title":"File:MEJEDIAN NATIONAL ATHEM.jpg","revisions":[{"revid":25275,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-30T16:20:01Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4445":{"pageid":4445,"ns":6,"title":"File:Provisional flag of the Arab People's Republic.jpg","revisions":[{"revid":25353,"parentid":0,"user":"KLEk2005","timestamp":"2022-12-07T14:51:47Z","comment":"\u963f\u4eba\u5171\u4e34\u65f6\u7684\u56fd\u65d7\uff08\u5efa\u519b\u5236 \u767e\u75f4\u65af\u5766\u5ba1\u5b9a\uff09"}]}}}}

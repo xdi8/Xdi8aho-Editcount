@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4189":{"pageid":4189,"ns":14,"title":"Category:Ru-0","revisions":[{"revid":25699,"parentid":23999,"user":"QWERTY 52 38","timestamp":"2022-12-29T02:41:30Z","comment":"// Edit via Wikiplus"}]}}}}

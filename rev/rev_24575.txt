@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4328":{"pageid":4328,"ns":6,"title":"File:Juche International.jpg","revisions":[{"revid":24575,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-08T14:58:50Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4340":{"pageid":4340,"ns":6,"title":"File:Warn about mejed.jpg","revisions":[{"revid":24675,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-11T05:16:53Z","comment":""}]}}}}

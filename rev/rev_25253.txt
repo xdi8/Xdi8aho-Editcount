@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4423":{"pageid":4423,"ns":6,"title":"File:Workers Party of Mejed.png","revisions":[{"revid":25253,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-28T16:27:04Z","comment":""}]}}}}

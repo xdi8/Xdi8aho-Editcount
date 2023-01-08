@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4448":{"pageid":4448,"ns":6,"title":"File:PfT 3li8 bBi8.jpg","revisions":[{"revid":25379,"parentid":0,"user":"NLSGoogologist","timestamp":"2022-12-10T01:46:54Z","comment":""}]}}}}

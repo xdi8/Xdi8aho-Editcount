@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4056":{"pageid":4056,"ns":10,"title":"Template:\u661f\u9645\u7edf\u4e00\u5386\u7edd\u5bf9\u65e5\u671f/doc","revisions":[{"revid":25772,"parentid":23288,"minor":"","user":"QWERTY 52 38","timestamp":"2023-01-01T00:39:30Z","comment":"// Edit via Wikiplus"}]}}}}

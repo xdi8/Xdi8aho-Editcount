@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4102":{"pageid":4102,"ns":2,"title":"User:Morris92/WarInfo","revisions":[{"revid":24560,"parentid":23604,"user":"Morris92","timestamp":"2022-11-07T13:56:40Z","comment":""}]}}}}

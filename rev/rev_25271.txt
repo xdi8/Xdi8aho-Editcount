@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4426":{"pageid":4426,"ns":6,"title":"File:NEW SHIDINN SUBTITLE IN MEJEDIAN TV.jpg","revisions":[{"revid":25271,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-30T15:56:51Z","comment":""}]}}}}

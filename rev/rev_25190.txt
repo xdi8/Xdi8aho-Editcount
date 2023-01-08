@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4253":{"pageid":4253,"ns":1,"title":"Talk:\u5e0c\u5415\u5b57\u6bcd","revisions":[{"revid":25190,"parentid":25039,"user":"Snake002","timestamp":"2022-11-25T06:42:20Z","comment":"/* \u65b0\u5b57\u6bcd\u6295\u7a3f(\u592e\u6c42\u5404\u4f4d\u5927\u54e5\u5927\u59d0\u91c7\u7eb3). */ \u65b0\u7ae0\u8282"}]}}}}

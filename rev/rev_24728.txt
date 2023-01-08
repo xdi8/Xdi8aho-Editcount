@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4347":{"pageid":4347,"ns":0,"title":"\u6885\u6770\u5fb7\u6cd5\u8001\u56fd","revisions":[{"revid":24728,"parentid":0,"user":"KLEk2005","timestamp":"2022-11-12T16:02:08Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c[[\u5206\u7c7b:\u54c8\u8428\u514b\u65af\u5766\u4e09\u56fd\u65f6\u4ee3]]\u201d\u7684\u65b0\u9875\u9762"}]}}}}
